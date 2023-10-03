@@ -32,6 +32,31 @@ His research interests include nature language processing, machine translation, 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bayling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968) \\
+**Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng
+
+[![homepage](https://img.shields.io/badge/BayLing-Homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling) [![demo](https://img.shields.io/badge/BayLing-Demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo) [![github](https://img.shields.io/badge/Code-orange.svg)](http://nlp.ict.ac.cn/bayling)
+
+- BayLing (百聆, bǎi líng) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
+- Bayling is the first research to use interactive translation tasks to complete the cross-language transfer of LLM's generation capabilities.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GitHub Repo</div><img src='images/st.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Awesome Simultaneous Translation](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation) \\
+**Shaolei Zhang**
+
+[![github](https://img.shields.io/badge/GitHub-Repo-orange.svg)](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation)
+
+- A repository that collects the tookits, common datasets and paper list related to the research on Simultaneous Translation, including text-to-text machine translation and speech-to-text translation.
+</div>
+</div>
+
 - ``NeurIPS 2023`` **Shaolei Zhang**, Yang Feng. Unified Segment-to-Segment Framework for Simultaneous Sequence Generation.
 - ``ACL 2023`` **Shaolei Zhang**, Yang Feng. [End-to-End Simultaneous Speech Translation with Differentiable Segmentation](https://arxiv.org/pdf/2305.16093.pdf). [![github](https://img.shields.io/badge/Code-gray.svg)](https://github.com/ictnlp/DiSeg)
 - ``ACL 2023`` Shoutao Guo, **Shaolei Zhang**, Yang Feng. [Learning Optimal Policy for Simultaneous Machine Translation via Binary Search](https://arxiv.org/pdf/2305.12774.pdf). [![github](https://img.shields.io/badge/Code-gray.svg)](https://github.com/ictnlp/BS-SiMT)
