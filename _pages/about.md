@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shaolei Zhang is currently working toward his Ph.D. degree in the [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
+Shaolei Zhang (张绍磊) is currently working toward his Ph.D. degree in the [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
-His research interests include nature language processing, machine translation, simultaneous translation and large language model. He has published 14 papers at the top international AI/NLP conferences such as ACL, EMNKP, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021.
+His research interests include nature language processing, machine translation, simultaneous translation and large language model. He has published 14 papers at the top international AI/NLP conferences such as ACL, EMNLP, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021.
 
 
 # 🔥 News
@@ -32,6 +32,7 @@ His research interests include nature language processing, machine translation, 
 
 # 📝 Publications 
 
+- ``NeurIPS 2023`` **Shaolei Zhang**, Yang Feng. Unified Segment-to-Segment Framework for Simultaneous Sequence Generation.
 - ``ACL 2023`` **Shaolei Zhang**, Yang Feng. [End-to-End Simultaneous Speech Translation with Differentiable Segmentation](https://arxiv.org/pdf/2305.16093.pdf). [![github](https://img.shields.io/badge/Code-gray.svg)](https://github.com/ictnlp/DiSeg)
 - ``ACL 2023`` Shoutao Guo, **Shaolei Zhang**, Yang Feng. [Learning Optimal Policy for Simultaneous Machine Translation via Binary Search](https://arxiv.org/pdf/2305.12774.pdf). [![github](https://img.shields.io/badge/Code-gray.svg)](https://github.com/ictnlp/BS-SiMT)
 - ``ICLR 2022`` **Shaolei Zhang**, Yang Feng. [Hidden Markov Transformer for Simultaneous Machine Translation](https://openreview.net/pdf?id=9y0HFvaAYD6). [![github](https://img.shields.io/badge/Code-gray.svg)](https://github.com/ictnlp/HMT)
@@ -49,16 +50,24 @@ His research interests include nature language processing, machine translation, 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所所长特别奖（夏培肃奖）)
+- [2022]	National Scholarship (国家奖学金)
+- [2021]	First place in the streaming transcription track of AutoSimTrans 2021
+- [2020]	Beijing Outstanding Graduate (北京市优秀毕业生)
+- [2018]	Beijing Merit Student (北京市三好学生)
+- [2017]	National Scholarship (国家奖学金)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - now*: Ph.D. Candidate. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
+- *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks & Services
+- "Survey on Simultaneous Machine Translation" on MLNLP Talk [video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)
+- AI Time Youth Talk for ICLR 2023
+- **Area Chair** of ACL/EMNLP/NAACL ARR 2023 
+- **Reviewer** of ACL/EMNLP/COLING 
+- 中国中文信息学会青年工作委员会 **学生执委会主任**
+- **Programming Chair** of CSSNLP 2020/2021
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
