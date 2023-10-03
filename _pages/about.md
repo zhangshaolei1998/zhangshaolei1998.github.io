@@ -73,10 +73,10 @@ His research interests include nature language processing, machine translation, 
 - ``ICONIP 2019`` &nbsp; **Shaolei Zhang**, Gang Lu, Kai Shuang. [Opinion Knowledge Injection Network for Aspect Extraction](https://link.springer.com/chapter/10.1007/978-3-030-36711-4_56).
 
 # 🏆 Honors and Awards
-- [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所所长特别奖（夏培肃奖）)
+- [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所所长特别奖（夏培肃奖）, highest award in ICT)
 - [2022]	National Scholarship (国家奖学金)
 - [2021]	First place in the streaming transcription track of AutoSimTrans 2021
-- [2020]	Beijing Outstanding Graduate (北京市优秀毕业生)
+- [2020]	Beijing Outstanding Graduates Award (北京市优秀毕业生)
 - [2018]	Beijing Merit Student (北京市三好学生)
 - [2017]	National Scholarship (国家奖学金)
 
