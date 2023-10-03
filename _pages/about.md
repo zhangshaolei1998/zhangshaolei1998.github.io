@@ -72,7 +72,6 @@ His research interests include nature language processing, machine translation, 
 - ``AAAI 2021`` **Shaolei Zhang**, Yang Feng, Liangyou Li. [Future-Guided Incremental Transformer for Simultaneous Translation](https://arxiv.org/pdf/2012.12465.pdf).
 - ``ICONIP 2019`` **Shaolei Zhang**, Gang Lu, Kai Shuang. [Opinion Knowledge Injection Network for Aspect Extraction](https://link.springer.com/chapter/10.1007/978-3-030-36711-4_56).
 
-
 # 🏆 Honors and Awards
 - [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所所长特别奖（夏培肃奖）)
 - [2022]	National Scholarship (国家奖学金)
@@ -91,7 +90,7 @@ His research interests include nature language processing, machine translation, 
 - *2020.06 - now*: Ph.D. Candidate. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
-# 💬 Invited Talks & Services
+# 💬 Invited Talks
 - "Survey on Simultaneous Machine Translation" on MLNLP Talk [video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)
 - AI Time Youth Talk for ICLR 2023
 
