@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shaolei Zhang \n张绍磊"
+  name             : "Shaolei Zhang"
   avatar           : "images/you.jpg"
   bio              : "Ph.D. Candidate at Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
   location         : "Beijing, China"
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/11/7954.html"
   orcid            : "https://orcid.org/0000-0002-7254-9380"
   pinterest        :
   soundcloud       :
