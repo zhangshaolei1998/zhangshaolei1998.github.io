@@ -57,7 +57,7 @@ His research interests include nature language processing, machine translation, 
 </div>
 
 - ``NeurIPS 2023`` &nbsp; **Shaolei Zhang**, Yang Feng. Unified Segment-to-Segment Framework for Simultaneous Sequence Generation.
-- https://img.shields.io/badge/ACL-2023-9cf.svg?style=plastic &nbsp; **Shaolei Zhang**, Yang Feng. [End-to-End Simultaneous Speech Translation with Differentiable Segmentation](https://arxiv.org/pdf/2305.16093.pdf). [![github](https://img.shields.io/badge/GitHub-inactive.svg?style=social&logo=github)](https://github.com/ictnlp/DiSeg)
+- ![](https://img.shields.io/badge/ACL-2023-9cf.svg?style=plastic) &nbsp; **Shaolei Zhang**, Yang Feng. [End-to-End Simultaneous Speech Translation with Differentiable Segmentation](https://arxiv.org/pdf/2305.16093.pdf). [![github](https://img.shields.io/badge/GitHub-inactive.svg?style=social&logo=github)](https://github.com/ictnlp/DiSeg)
 - ``ACL 2023`` &nbsp; Shoutao Guo, **Shaolei Zhang**, Yang Feng. [Learning Optimal Policy for Simultaneous Machine Translation via Binary Search](https://arxiv.org/pdf/2305.12774.pdf). [![github](https://img.shields.io/badge/GitHub-inactive.svg?style=social&logo=github)](https://github.com/ictnlp/BS-SiMT)
 - ``ICLR 2022`` &nbsp; **Shaolei Zhang**, Yang Feng. [Hidden Markov Transformer for Simultaneous Machine Translation](https://openreview.net/pdf?id=9y0HFvaAYD6). [![github](https://img.shields.io/badge/GitHub-inactive.svg?style=social&logo=github)](https://github.com/ictnlp/HMT)
 - ``EMNLP 2022`` &nbsp; **Shaolei Zhang**, Yang Feng. [Information-Transport-based Policy for Simultaneous Translation](https://arxiv.org/pdf/2210.12357.pdf). [![github](https://img.shields.io/badge/GitHub-inactive.svg?style=social&logo=github)](https://github.com/ictnlp/ITST)
