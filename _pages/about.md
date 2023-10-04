@@ -40,7 +40,7 @@ His research interests include nature language processing, machine translation, 
 [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling) [![demo](https://img.shields.io/badge/Demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing)
 
 - BayLing (百聆) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
-- Bayling is the first research to use interactive translation tasks to complete the cross-language transfer of LLM's generation capabilities.
+- BayLing is the first research to use interactive translation tasks to complete the cross-language transfer of LLM's generation capabilities.
 </div>
 </div>
 
@@ -82,7 +82,8 @@ His research interests include nature language processing, machine translation, 
 
 # 👏 Services
 - **Area Chair** of ACL/EMNLP/NAACL ARR 2023 
-- **Reviewer** of ACL/EMNLP/COLING 
+- **Reviewer** of ACL/EMNLP/COLING
+- **Session Chair** of Student Seminar in CCL 2024
 - 中国中文信息学会青年工作委员会 **学生执委会主任**
 - **Programming Chair** of CSSNLP 2020/2021
 
@@ -91,7 +92,8 @@ His research interests include nature language processing, machine translation, 
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
-- "Survey on Simultaneous Machine Translation" on MLNLP Talk [video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)
+- "如何在大模型时代找到科研切入点？" on CCMT 2024
+- "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
 - AI Time Youth Talk for ICLR 2023
 
 # 💻 Internships
