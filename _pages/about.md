@@ -23,7 +23,7 @@ His research interests include nature language processing, machine translation, 
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by NeurIPS 2023!
+- *2023.10*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by EMNLP 2023!
 - *2023.09*: &nbsp;🎉	<font color=red>One paper</font> is accepted by NeurIPS 2023!
 - *2023.06*: &nbsp;🎉	Our cross-lingual aligned LLM [<font color=red>BayLing</font>](http://nlp.ict.ac.cn/bayling) is released.
 - *2023.05*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by ACL 2023.
