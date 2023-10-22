@@ -95,9 +95,11 @@ His research interests include nature language processing, machine translation, 
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
-- "如何在大模型时代找到科研切入点？" on CCMT 2024
-- "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
+- "如何在大模型时代找到科研切入点？" on CCMT 2024 [[Slides]()]
+- "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
 - AI Time Youth Talk for ICLR 2023
 
 # 💻 Internships
 - *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
+
+<a href="https://clustrmaps.com/site/1bx1j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=f6ObyrbVLY65qa_IZr0teL9UER09Q1bLih8TUF5yekA&cl=ffffff" /></a>
