@@ -102,4 +102,4 @@ His research interests include nature language processing, machine translation, 
 # 💻 Internships
 - *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
 
-<a href="https://clustrmaps.com/site/1bx1j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=f6ObyrbVLY65qa_IZr0teL9UER09Q1bLih8TUF5yekA&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1bx1j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=f6ObyrbVLY65qa_IZr0teL9UER09Q1bLih8TUF5yekA'/></a>
