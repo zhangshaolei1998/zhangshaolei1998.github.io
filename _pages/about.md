@@ -24,6 +24,7 @@ His research interests include nature language processing, machine translation, 
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by EMNLP 2023!
+- *2023.09*: &nbsp;👏	Serve as <font color=red>Area Chair</font> of ACL/EACL/NAACL ARR 2023!
 - *2023.09*: &nbsp;🎉	<font color=red>One paper</font> is accepted by NeurIPS 2023!
 - *2023.06*: &nbsp;🎉	Our cross-lingual aligned LLM [<font color=red>BayLing</font>](http://nlp.ict.ac.cn/bayling) is released.
 - *2023.05*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by ACL 2023.
@@ -84,7 +85,7 @@ His research interests include nature language processing, machine translation, 
 - [2017]	National Scholarship (国家奖学金)
 
 # 👏 Services
-- **Area Chair** of ACL/EMNLP/NAACL ARR 2023 
+- **Area Chair** of ACL/EACL/NAACL ARR 2023 
 - **Reviewer** of ACL/EMNLP/COLING
 - **Session Chair** of Student Seminar in CCL 2024
 - 中国中文信息学会青年工作委员会 **学生执委会主任**
@@ -95,8 +96,8 @@ His research interests include nature language processing, machine translation, 
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
-- "如何在大模型时代找到科研切入点？" on CCMT 2024 [[Slides]()]
-- "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
+- "如何在大模型时代找到科研切入点？" on CCMT 2024 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/slides/CCMT学生论坛_张绍磊.pdf)]
+- "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/slides/MLNLP学术研讨会_同声传译综述_张绍磊.pdf)] [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
 - AI Time Youth Talk for ICLR 2023
 
 # 💻 Internships
