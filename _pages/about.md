@@ -41,8 +41,9 @@ His research interests include nature language processing, <font color=green>mac
 
 [![homepage](https://img.shields.io/badge/Homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling) [![demo](https://img.shields.io/badge/Demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing)
 
-- BayLing (百聆) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
+- BayLing (百聆) is a LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
 - BayLing is the first research to use interactive translation tasks to complete the cross-language transfer of LLM's generation capabilities.
+- BayLing is selected for inclusion in the [2022-2023 Top 100 Opensource achievements: <font color=red>Open100 (2022-2023)</font>](https://www.benchcouncil.org/evaluation/opencs/annual.html), launched by the International Open Benchmark Council (BenchCouncil).
 </div>
 </div>
 
