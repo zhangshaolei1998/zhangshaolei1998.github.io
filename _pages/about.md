@@ -23,6 +23,7 @@ His research interests include nature language processing, <font color=green>mac
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉	<font color=red>One paper</font> is accepted by ICASSP 2024!
 - *2023.10*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by EMNLP 2023!
 - *2023.09*: &nbsp;👏	Serve as <font color=red>Area Chair</font> of ACL/EACL/NAACL ARR 2023!
 - *2023.09*: &nbsp;🎉	<font color=red>One paper</font> is accepted by NeurIPS 2023!
