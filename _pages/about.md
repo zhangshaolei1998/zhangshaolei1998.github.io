@@ -48,6 +48,20 @@ His research interests include nature language processing, <font color=green>mac
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
+**Shaolei Zhang**, Tian Yu, Yang Feng
+
+[![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2402.17811) [![huggingface](https://img.shields.io/badge/Huggingface-orange.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
+
+- TruthX is an inference-time method to elicit the truthfulness of LLMs by editing their internal representations in truthful space, thereby mitigating the hallucinations of LLMs.
+- TruthX can control LLMs to generate truthful or hallucinatory responses by editing only a vector in truthful space.
+- On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 advanced LLMs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GitHub Repo</div><img src='images/st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
