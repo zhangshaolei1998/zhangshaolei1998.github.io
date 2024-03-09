@@ -34,12 +34,14 @@ His research interests include nature language processing, <font color=green>mac
 - *2022.02*: &nbsp;🎉	<font color=red>Three papers</font> are accepted by ACL 2022!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bayling.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bayling.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
   <img src="images/bayling.gif" alt="img" width="100%" />
 </details>
+
+</div>
 </div>
 <div class='paper-box-text' markdown="1">
 
