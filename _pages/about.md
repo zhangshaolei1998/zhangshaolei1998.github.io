@@ -48,7 +48,7 @@ His research interests include nature language processing, <font color=green>mac
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%"><img src='images/truthx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
