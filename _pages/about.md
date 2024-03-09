@@ -45,10 +45,15 @@ His research interests include nature language processing, <font color=green>mac
 - BayLing (百聆) is a LLM equipped with advanced language alignment.
 - BayLing is the first research to use interactive translation tasks to complete the cross-language transfer of LLM's generation capabilities.
 - BayLing is selected for inclusion in the [2022-2023 Top 100 Opensource achievements: <font color=red>Open100 (2022-2023)</font>](https://www.benchcouncil.org/evaluation/opencs/annual.html), launched by the International Open Benchmark Council (BenchCouncil).
+
+<details>
+<summary>Demo</summary>
+  <img src="images/bayling.gif" alt="img" width="100%" />
+</details>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%"><img src='images/truthx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
@@ -59,6 +64,11 @@ His research interests include nature language processing, <font color=green>mac
 - TruthX is an inference-time method to elicit the truthfulness of LLMs by editing their internal representations in truthful space, thereby mitigating the hallucinations of LLMs.
 - TruthX can control LLMs to generate truthful or hallucinatory responses by editing only a vector in truthful space.
 - On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 advanced LLMs.
+
+<details>
+<summary>Demo</summary>
+  <img src="images/truthx.gif" alt="img" width="100%" />
+</details>
 </div>
 </div>
 
