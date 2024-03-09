@@ -54,17 +54,19 @@ His research interests include nature language processing, <font color=green>mac
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
   <img src="images/truthx.gif" alt="img" width="100%" />
 </details>
+
+</div>
 </div>
 <div class='paper-box-text' markdown="1">
 
 [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
-**Shaolei Zhang**$^{*}$, Tian Yu$^{*}$, Yang Feng
+**Shaolei Zhang** *, Tian Yu *, Yang Feng
 
 [![paper](https://img.shields.io/badge/Paper-d.svg)](https://arxiv.org/abs/2402.17811) [![huggingface](https://img.shields.io/badge/Huggingface-orange.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
 
@@ -87,7 +89,7 @@ His research interests include nature language processing, <font color=green>mac
 </div>
 
 ## 2024
-- ![](https://img.shields.io/badge/ArXiv-2024-white.svg?style=social) &nbsp; **Shaolei Zhang**$^{*}$, Tian Yu$^{*}$, Yang Feng. [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX)
+- ![](https://img.shields.io/badge/ArXiv-2024-white.svg?style=social) &nbsp; **Shaolei Zhang** *, Tian Yu *, Yang Feng. [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX)
 - ![](https://img.shields.io/badge/ArXiv-2024-white.svg?style=social) &nbsp; Shoutao Guo, **Shaolei Zhang**, Yang Feng. [SiLLM: Large Language Models for Simultaneous Machine Translation](https://arxiv.org/pdf/2402.13036.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)
 - ![](https://img.shields.io/badge/ICASSP-2024-white.svg?style=social) &nbsp; Shoutao Guo, **Shaolei Zhang**, Yang Feng. [Glancing Future for Simultaneous Machine Translation](https://arxiv.org/pdf/2309.06179.pdf).(*<font color=red>Oral</font>*) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Glance-SiMT)
 
