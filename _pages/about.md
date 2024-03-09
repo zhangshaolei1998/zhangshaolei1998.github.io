@@ -115,20 +115,22 @@ His research interests include nature language processing, <font color=green>mac
 
 # 👏 Services
 - **Area Chair** of ACL/EACL/NAACL ARR 2023 
-- **Reviewer** of ACL/EMNLP/COLING
+- **Reviewer** of ACL/EMNLP/COLING/NAACL/EACL
 - **Session Chair** of Student Seminar in [CCL 2024](http://cips-cl.org/static/CCL2024/index.html)
 - **Session Chair** of Student Seminar in YSSNLP 2024
 - 中国中文信息学会青年工作委员会 **学生执委会主任**
-- **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021
+- **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021/2023
 
 # 📖 Educations
 - *2020.06 - now*: Ph.D. Candidate. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
-- "如何在大模型时代找到科研切入点？" on CCMT 2024 [[Slides](https://zhangshaolei1998.github.io/slides/CCMT%E5%AD%A6%E7%94%9F%E8%AE%BA%E5%9D%9B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
+- "大模型时代的科研选题和实践分享" on MLNLP Academic Seminar [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/MLNLP_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A7%91%E7%A0%94%E9%80%89%E9%A2%98%E5%92%8C%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
+- "跨语言对齐增强大模型——百聆" on AI TIME 大模型嘉年华 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/AI-Time%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%98%89%E5%B9%B4%E5%8D%8E_%E8%B7%A8%E8%AF%AD%E8%A8%80%E5%AF%B9%E9%BD%90%E5%A4%A7%E6%A8%A1%E5%9E%8B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1yt4y1Z7Ck/?spm_id_from=333.999.0.0)]
+- "如何在大模型时代找到科研切入点？" on CCMT 2023 [[Slides](https://zhangshaolei1998.github.io/slides/CCMT%E5%AD%A6%E7%94%9F%E8%AE%BA%E5%9D%9B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1TW4y1F7uD/)]
 - "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Slides](https://zhangshaolei1998.github.io/slides/MLNLP%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A_%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%E7%BB%BC%E8%BF%B0_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
-- AI Time Youth Talk for ICLR 2023
+- AI Time Youth Talk for ICLR 2023 [[Video](https://www.bilibili.com/video/BV1Wk4y1W7yr/?spm_id_from=333.999.0.0&vd_source=c899334e93a187eda3344c9e3cbb3c9a)]
 
 # 💻 Internships
 - *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
