@@ -23,15 +23,16 @@ His research interests include nature language processing, <font color=green>mac
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉	<font color=red>One paper</font> is accepted by ICASSP 2024!
-- *2023.10*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by EMNLP 2023!
+- *2024.05*: &nbsp;🎉	<font color=red>6 papers</font> is accepted by ACL 2024!
+- *2023.12*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICASSP 2024!
+- *2023.10*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by EMNLP 2023!
 - *2023.09*: &nbsp;👏	Serve as <font color=red>Area Chair</font> of ACL/EACL/NAACL ARR 2023!
-- *2023.09*: &nbsp;🎉	<font color=red>One paper</font> is accepted by NeurIPS 2023!
+- *2023.09*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by NeurIPS 2023!
 - *2023.06*: &nbsp;🎉	Our cross-lingual aligned LLM [<font color=red>BayLing</font>](http://nlp.ict.ac.cn/bayling) is released.
-- *2023.05*: &nbsp;🎉	<font color=red>Two papers</font> are accepted by ACL 2023.
-- *2023.01*: &nbsp;🎉	<font color=red>One paper</font> is accepted by ICLR 2023 (spotlight)!
-- *2022.10*: &nbsp;🎉	<font color=red>Three papers</font> are accepted by EMNLP 2022!
-- *2022.02*: &nbsp;🎉	<font color=red>Three papers</font> are accepted by ACL 2022!
+- *2023.05*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ACL 2023.
+- *2023.01*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICLR 2023 (spotlight)!
+- *2022.10*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by EMNLP 2022!
+- *2022.02*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by ACL 2022!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bayling.png' alt="sym" width="100%">
@@ -56,7 +57,7 @@ His research interests include nature language processing, <font color=green>mac
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/truthx.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/truthx.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
@@ -91,8 +92,13 @@ His research interests include nature language processing, <font color=green>mac
 </div>
 
 ## 2024
-- ![](https://img.shields.io/badge/ArXiv-2024-white.svg?style=social) &nbsp; **Shaolei Zhang** *, Tian Yu *, Yang Feng. [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX)
-- ![](https://img.shields.io/badge/ArXiv-2024-white.svg?style=social) &nbsp; Shoutao Guo, **Shaolei Zhang**, Yang Feng. [SiLLM: Large Language Models for Simultaneous Machine Translation](https://arxiv.org/pdf/2402.13036.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)
+- ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; **Shaolei Zhang** *, Tian Yu *, Yang Feng. [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX)
+- ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; **Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng. StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning.
+- ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; Tian Yu *, **Shaolei Zhang** *, Yang Feng. [Truth-Aware Context Selection: Mitigating the Hallucinations of Large Language Models Being Misled by Untruthful Contexts](https://arxiv.org/pdf/2403.07556.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TACS)
+- ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; Qingkai Fang, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng. Can We Achieve High-quality Direct Speech-to-Speech Translation Without Parallel Speech Data?
+- ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; Shoutao Guo, **Shaolei Zhang**, Yang Feng. Decoder-only Streaming Transformer for Simultaneous Translation.
+- ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; Zhengrui Ma, Qingkai Fang, **Shaolei Zhang**, Shoutao Guo, Min Zhang, Yang Feng. A Non-autoregressive Generation Framework for Simultaneous Speech-to-x Translation.
+- ![](https://img.shields.io/badge/ArXiv-2024-white.svg?style=social) &nbsp; Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng. [SiLLM: Large Language Models for Simultaneous Machine Translation](https://arxiv.org/pdf/2402.13036.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)
 - ![](https://img.shields.io/badge/ICASSP-2024-white.svg?style=social) &nbsp; Shoutao Guo, **Shaolei Zhang**, Yang Feng. [Glancing Future for Simultaneous Machine Translation](https://arxiv.org/pdf/2309.06179.pdf).(*<font color=red>Oral</font>*) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Glance-SiMT)
 
 ## 2023
