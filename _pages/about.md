@@ -19,7 +19,7 @@ redirect_from:
 
 **Shaolei Zhang** (**张绍磊**) is currently working toward his Ph.D. degree in the [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
-His research interests include nature language processing, <font color=green>machine translation</font>, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *10 papers* at the top international AI/NLP conferences such as ACL, EMNLP, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021.
+His research interests include nature language processing, <font color=green>machine translation</font>, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, EMNLP. He won the first place in the streaming transcription track of AutoSimTrans 2021.
 
 
 # 🔥 News
