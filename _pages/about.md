@@ -57,7 +57,7 @@ His research interests include nature language processing, <font color=red>simul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/truthx.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ill.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
