@@ -117,13 +117,13 @@ His research interests include nature language processing, <font color=red>simul
 
 ## 2024
 
-[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). ACL 2024 (CCF-A).<br>
+[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). ACL 2024 (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Tian Yu, Yang Feng<br>
-[![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)
+[![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)<br>
 
-[StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/pdf/2406.03049). ACL 2024 (CCF-A).<br>
->**Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng<br>
->[![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)
+[StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/pdf/2406.03049). ACL 2024 (<font color=red>CCF-A</font>).<br>
+**Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng<br>
+[![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2406.03049) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)<br>
 
 - ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; **Shaolei Zhang**, Tian Yu, Yang Feng. [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)
 - ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; **Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng. [StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/pdf/2406.03049). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/StreamSpeech) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/StreamSpeech-site/)
