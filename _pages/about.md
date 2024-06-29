@@ -21,7 +21,7 @@ redirect_from:
 
 His research interests include nature language processing, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
 
-<!-- > I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`. -->
+> I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
 
 # 🔥 News
@@ -149,13 +149,13 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2023-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2306.10968) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/BayLing) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](http://nlp.ict.ac.cn/bayling) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/bayling-13b-v1.1)<br>
 
 - [Unified Segment-to-Segment Framework for Simultaneous Sequence Generation](https://openreview.net/pdf?id=GuErIOGLie). &nbsp; NeurIPS 2023 (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_NeurIPS_2023-b31b1b.svg?style=plastic)](https://openreview.net/pdf?id=GuErIOGLie) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Seg2Seg)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_NeurIPS_2023-b31b1b.svg?style=plastic)](https://openreview.net/pdf?id=GuErIOGLie) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Seg2Seg) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://nips.cc/virtual/2023/poster/72184)<br>
 
 - [Non-autoregressive Streaming Transformer for Simultaneous Translation](https://aclanthology.org/2023.emnlp-main.314.pdf). &nbsp; EMNLP 2023 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
-Zhengrui Ma, **Shaolei Zhang**, Shoutao Guo, Chenze Shao, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2023-b31b1b.svg?style=plastic)](https://aclanthology.org/2023.emnlp-main.314) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/NAST)<br>
+Zhengrui Ma, **Shaolei Zhang**, Shoutao Guo, Chenze Shao, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2023-b31b1b.svg?style=plastic)](https://aclanthology.org/2023.emnlp-main.314) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/NAST) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/88640-non-autoregressive-streaming-transformer-for-simultaneous-translation)<br>
 
 - [Simultaneous Machine Translation with Tailored Reference](https://aclanthology.org/2023.findings-emnlp.202.pdf). &nbsp; EMNLP 2023 findings (<font color=red>CCF-B</font>).<br>
-Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2023-b31b1b.svg?style=plastic)](https://aclanthology.org/2023.findings-emnlp.202) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Tailored-Ref)<br>
+Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2023-b31b1b.svg?style=plastic)](https://aclanthology.org/2023.findings-emnlp.202) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Tailored-Ref) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/89518-simultaneous-machine-translation-with-tailored-reference)<br>
 
 - [End-to-End Simultaneous Speech Translation with Differentiable Segmentation](https://aclanthology.org/2023.findings-acl.485.pdf). &nbsp; ACL 2023 findings (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2023-b31b1b.svg?style=plastic)](https://aclanthology.org/2023.findings-acl.485) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/DiSeg)<br>
@@ -164,45 +164,45 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2023-b31b1b.svg?style=plastic)](https://aclanthology.org/2023.acl-long.130) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/BS-SiMT)<br>
 
 - [Hidden Markov Transformer for Simultaneous Machine Translation](https://openreview.net/pdf?id=9y0HFvaAYD6). &nbsp; ICLR 2023 **<font color=red>Spotlight</font>**.<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2023-b31b1b.svg?style=plastic)](https://openreview.net/pdf?id=9y0HFvaAYD6) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/HMT) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://github.com/ictnlp/HMT)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2023-b31b1b.svg?style=plastic)](https://openreview.net/pdf?id=9y0HFvaAYD6) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/HMT) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://github.com/ictnlp/HMT) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://iclr.cc/virtual/2023/poster/11939)<br>
 
 ## 2022
 - [Information-Transport-based Policy for Simultaneous Translation](https://aclanthology.org/2022.emnlp-main.65.pdf). &nbsp; EMNLP 2022 **<font color=red>Oral</font>** (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.emnlp-main.65) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/ITST)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.emnlp-main.65) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/ITST) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/65316-information-transport-based-policy-for-simultaneous-translation)<br>
 
 - [Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation](https://aclanthology.org/2022.findings-emnlp.166.pdf). &nbsp; EMNLP 2022 findings (<font color=red>CCF-B</font>).<br>
-**Shaolei Zhang**, Shoutao Guo, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.findings-emnlp.166) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Wait-info)<br>
+**Shaolei Zhang**, Shoutao Guo, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.findings-emnlp.166) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Wait-info) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/65319-wait-info-policy-balancing-source-and-target-at-information-level-for-simultaneous-machine-translation)<br>
 
 - [Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation](https://aclanthology.org/2022.findings-emnlp.167.pdf). &nbsp; EMNLP 2022 findings (<font color=red>CCF-B</font>).<br>
-Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.findings-emnlp.167) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/PED-SiMT)<br>
+Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.findings-emnlp.167) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/PED-SiMT) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/65320-turning-fixed-to-adaptive-integrating-post-evaluation-into-simultaneous-machine-translation)<br>
 
 - [Modeling Dual Read/Write Paths for Simultaneous Machine Translation](https://aclanthology.org/2022.acl-long.176.pdf). &nbsp; ACL 2022 (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.acl-long.176) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Dual-Path)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.acl-long.176) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Dual-Path) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/50503-modeling-dual-readdashwrite-paths-for-simultaneous-machine-translation)<br>
 
 - [Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework](https://aclanthology.org/2022.acl-long.467.pdf). &nbsp; ACL 2022 (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.acl-long.467)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.acl-long.467) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/50584-reducing-position-bias-in-simultaneous-machine-translation-with-length-aware-framework)<br>
 
 - [Gaussian Multi-head Attention for Simultaneous Machine Translation](https://aclanthology.org/2022.findings-acl.238.pdf). &nbsp; ACL 2022 findings (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.findings-acl.238) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/GMA)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2022-b31b1b.svg?style=plastic)](https://aclanthology.org/2022.findings-acl.238) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/GMA) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/50061-gaussian-multi-head-attention-for-simultaneous-machine-translation)<br>
 
 ## 2021
 - [Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy](https://aclanthology.org/2021.emnlp-main.581.pdf). &nbsp; EMNLP 2021 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.emnlp-main.581) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/MoE-Waitk)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.emnlp-main.581) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/MoE-Waitk) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/37449-universal-simultaneous-machine-translation-with-mixture-of-experts-wait-k-policy)<br>
 
 - [Modeling Concentrated Cross-Attention for Neural Machine Translation with Gaussian Mixture Model](https://aclanthology.org/2021.findings-emnlp.121.pdf). &nbsp; EMNLP 2021 findings (<font color=red>CCF-B</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge%F0%9F%93%84_EMNLP_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.findings-emnlp.121)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.findings-emnlp.121) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/38411-modeling-concentrated-cross-attention-for-neural-machine-translation-with-gaussian-mixture-model)<br>
 
 - [Future-Guided Incremental Transformer for Simultaneous Translation](https://arxiv.org/pdf/2012.12465.pdf). &nbsp; AAAI 2021 **<font color=red>Oral</font>** (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Yang Feng, Liangyou Li  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2021-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2012.12465)<br>
 
 - [ICT's System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation](https://aclanthology.org/2021.autosimtrans-1.1.pdf). &nbsp; AutoSimTrans@NAACL 2021 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
-**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_NAACL_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.autosimtrans-1.1)<br>
+**Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_NAACL_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.autosimtrans-1.1) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://autosimtrans.github.io/2021/assets/docs/slides2021/ict_ZhangShaolei_AutoSimTrans_Slides.pdf)<br>
 
 
 # 🏆 Honors and Awards
 - [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所 所长特别奖(夏培肃奖)) [Highest award in ICT/CAS, **<font color=red>Top 2</font>**]
 - [2022]	National Scholarship (国家奖学金)
-- [2021]	**<font color=red>First place</font>** in the streaming track of [AutoSimTrans 2021](https://aclanthology.org/volumes/2021.autosimtrans-1/) (organized by Baidu/Huawei/Google)
+- [2021]	**<font color=red>First place</font>** in the streaming track of [AutoSimTrans 2021](https://autosimtrans.github.io/2021/program.html) (organized by Baidu/Huawei/Google)
 - [2020]	Beijing Outstanding Graduates Award (北京市优秀毕业生)
 - [2018]	Beijing Merit Student (北京市三好学生)
 - [2017]	National Scholarship (国家奖学金)
