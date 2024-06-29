@@ -86,7 +86,7 @@ His research interests include nature language processing, <font color=red>simul
 
 <details>
 <summary>Demo</summary>
-  <img src="images/streamspeech.gif" alt="img" width="100%" />
+  <img src="images/StreamSpeech.gif" alt="img" width="100%" />
 </details>
 
 </div>
