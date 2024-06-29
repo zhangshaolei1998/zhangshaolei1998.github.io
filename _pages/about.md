@@ -19,7 +19,7 @@ redirect_from:
 
 **Shaolei Zhang** (**张绍磊**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
-His research interests include nature language processing, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, EMNLP. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
+His research interests include nature language processing, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
 
 > I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
@@ -195,14 +195,14 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; [![paper](https://img.shields.
 - [Future-Guided Incremental Transformer for Simultaneous Translation](https://arxiv.org/pdf/2012.12465.pdf). AAAI 2021 **<font color=red>Oral</font>** (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Yang Feng, Liangyou Li  &nbsp; [![paper](https://img.shields.io/badge/AAAI_2021-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2012.12465)<br>
 
-- [ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation](https://aclanthology.org/2021.autosimtrans-1.1.pdf). AutoSimTrans@NAACL 2021 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
+- [ICT's System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation](https://aclanthology.org/2021.autosimtrans-1.1.pdf). AutoSimTrans@NAACL 2021 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
 **Shaolei Zhang**, Yang Feng  &nbsp; [![paper](https://img.shields.io/badge/NAACL_2021-b31b1b.svg?style=plastic&logo=arXiv)](https://aclanthology.org/2021.autosimtrans-1.1)<br>
 
 
 # 🏆 Honors and Awards
 - [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所 所长特别奖(夏培肃奖)) [Highest award in ICT/CAS, **<font color=red>Top 2</font>**]
 - [2022]	National Scholarship (国家奖学金)
-- [2021]	First place in the streaming track of AutoSimTrans 2021 (organized by Baidu/Huawei/Google)
+- [2021]	**<font color=red>First place</font>** in the streaming track of AutoSimTrans 2021 (organized by Baidu/Huawei/Google)
 - [2020]	Beijing Outstanding Graduates Award (北京市优秀毕业生)
 - [2018]	Beijing Merit Student (北京市三好学生)
 - [2017]	National Scholarship (国家奖学金)
@@ -216,7 +216,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; [![paper](https://img.shields.
 - **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021/2023
 
 # 📖 Educations
-- *2020.06 - now*: Ph.D. Candidate. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
+- *2020.06 - 2025.06*: Ph.D. Candidate. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
