@@ -119,13 +119,13 @@ His research interests include nature language processing, <font color=red>simul
 
 [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). ACL 2024 (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Tian Yu, Yang Feng<br>
-[![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)<br>
+[![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)<br><br>
 
 [StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/pdf/2406.03049). ACL 2024 (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng<br>
 [![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2406.03049) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)<br>
 
-[Truth-Aware Context Selection: Mitigating the Hallucinations of Large Language Models Being Misled by Untruthful Contexts](https://arxiv.org/pdf/2403.07556.pdf). ACL 2024 findings (<font color=red>CCF-A</font>).<br>
+[Truth-Aware Context Selection: Mitigating Hallucinations of Large Language Models Being Misled by Untruthful Contexts](https://arxiv.org/pdf/2403.07556.pdf). ACL 2024 findings (<font color=red>CCF-A</font>).<br>
 Tian Yu, **Shaolei Zhang**, Yang Feng<br>
 [![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2403.07556) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TACS)<br>
 
@@ -219,11 +219,11 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng<br>
 
 [ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation](https://aclanthology.org/2021.autosimtrans-1.1.pdf). AutoSimTrans@NAACL 2021 <font color=red>Oral</font> (<font color=red>CCF-B</font>).<br>
 **Shaolei Zhang**, Yang Feng<br>
-[![paper](https://img.shields.io/badge/AutoSimTrans@NAACL_2021-b31b1b.svg?logo=arXiv)](https://aclanthology.org/2021.autosimtrans-1.1)<br>
+[![paper](https://img.shields.io/badge/NAACL_2021-b31b1b.svg?logo=arXiv)](https://aclanthology.org/2021.autosimtrans-1.1)<br>
 
 
 # 🏆 Honors and Awards
-- [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所所长特别奖（夏培肃奖）) [Highest award in ICT/CAS, **Top 2**]
+- [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所 所长特别奖(夏培肃奖)) [Highest award in ICT/CAS, **<font color=red>Top 2</font>**]
 - [2022]	National Scholarship (国家奖学金)
 - [2021]	First place in the streaming track of AutoSimTrans 2021 (organized by Baidu/Huawei/Google)
 - [2020]	Beijing Outstanding Graduates Award (北京市优秀毕业生)
