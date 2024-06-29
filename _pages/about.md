@@ -21,7 +21,7 @@ redirect_from:
 
 His research interests include nature language processing, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, EMNLP. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
 
-> I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoctoral. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
+> I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
 
 # 🔥 News
