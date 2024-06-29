@@ -137,7 +137,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; [![paper](https://img.shields.
 - [A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation](https://arxiv.org/pdf/2406.06937). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
 Zhengrui Ma, Qingkai Fang, **Shaolei Zhang**, Shoutao Guo, Min Zhang, Yang Feng  &nbsp; [![paper](https://img.shields.io/badge/ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2406.06937) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/NAST-S2x) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://nast-s2x.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/NAST-S2X)<br>
 
-- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). Preprint 2024.<br>
+- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; Preprint 2024.<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; [![paper](https://img.shields.io/badge/Preprint_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2406.06910) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)<br>
 
 - [Glancing Future for Simultaneous Machine Translation](https://arxiv.org/pdf/2309.06179.pdf). &nbsp; ICASSP 2024 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
@@ -145,7 +145,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; [![paper](https://img.shields.
 
 
 ## 2023
-- [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968). Preprint 2023.<br>
+- [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968).  &nbsp; Preprint 2023.<br>
 **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng  &nbsp; [![paper](https://img.shields.io/badge/Preprint_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2306.10968) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/BayLing) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](http://nlp.ict.ac.cn/bayling) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/bayling-13b-v1.1)<br>
 
 - [Unified Segment-to-Segment Framework for Simultaneous Sequence Generation](https://openreview.net/pdf?id=GuErIOGLie). &nbsp; NeurIPS 2023 (<font color=red>CCF-A</font>).<br>
