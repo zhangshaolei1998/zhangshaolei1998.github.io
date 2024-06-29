@@ -21,7 +21,7 @@ redirect_from:
 
 His research interests include nature language processing, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, EMNLP. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
 
-> I am willing to communicate and share my research, and I am interested in opportunities in the industry, academia or postdoctoral. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
+> I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoctoral. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
 
 # 🔥 News
@@ -225,7 +225,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; [![paper](https://img.shields.
 - "如何在大模型时代找到科研切入点？" on CCMT 2023 [[Slides](https://zhangshaolei1998.github.io/slides/CCMT%E5%AD%A6%E7%94%9F%E8%AE%BA%E5%9D%9B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1TW4y1F7uD/)]
 - "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Slides](https://zhangshaolei1998.github.io/slides/MLNLP%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A_%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%E7%BB%BC%E8%BF%B0_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
 - AI Time Youth Talk for ICLR 2023 [[Video](https://www.bilibili.com/video/BV1Wk4y1W7yr/?spm_id_from=333.999.0.0&vd_source=c899334e93a187eda3344c9e3cbb3c9a)]
-- Share talk in ByteDance, Huawei, Tencent, Li Auto
+- Share talks in ByteDance, Huawei, Tencent, Li Auto
 
 # 💻 Internships
 - *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
