@@ -30,7 +30,7 @@ His research interests include nature language processing, <font color=red>simul
 - *2023.09*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by NeurIPS 2023!
 - *2023.06*: &nbsp;🎉	Our cross-lingual aligned LLM [<font color=red>BayLing</font>](http://nlp.ict.ac.cn/bayling) is released.
 - *2023.05*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ACL 2023.
-- *2023.01*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICLR 2023 (spotlight)!
+- *2023.01*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICLR 2023 (Spotlight)!
 - *2022.10*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by EMNLP 2022!
 - *2022.02*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by ACL 2022!
 
@@ -49,10 +49,10 @@ His research interests include nature language processing, <font color=red>simul
 [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968) \\
 **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2306.10968) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](http://nlp.ict.ac.cn/bayling) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://nlp.ict.ac.cn/bayling/demo) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20-Models-blue.svg)](https://huggingface.co/ICTNLP/bayling-13b-v1.1) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing)
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2306.10968) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](http://nlp.ict.ac.cn/bayling) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://nlp.ict.ac.cn/bayling/demo) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/bayling-13b-v1.1) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing)
 
 - BayLing (百聆) is a LLM equipped with advanced language alignment.
-- BayLing is the first research to use interactive translation tasks to complete the cross-language transfer of LLM's generation capabilities.
+- BayLing is the  <font color=red>Ofirst research to use language alignments to enhance LLM's multilingual capabilities</font>.
 - BayLing is selected for inclusion in the [2022-2023 Top 100 Opensource achievements: <font color=red>Open100 (2022-2023)</font>](https://www.benchcouncil.org/evaluation/opencs/annual.html), launched by the International Open Benchmark Council (BenchCouncil).
 </div>
 </div>
@@ -71,17 +71,21 @@ His research interests include nature language processing, <font color=red>simul
 [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
 **Shaolei Zhang**, Tian Yu, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![project](https://img.shields.io/badge/%F0%9F%93%9A%20Home-Try%20TruthX-orange.svg)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20-Model-blue.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/truthx-alleviating-hallucinations-by-editing/question-answering-on-truthfulqa)](https://paperswithcode.com/sota/question-answering-on-truthfulqa) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
+[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![project](https://img.shields.io/badge/%F0%9F%93%9A%20Homepage-Try%20TruthX-orange.svg)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/truthx-alleviating-hallucinations-by-editing/question-answering-on-truthfulqa)](https://paperswithcode.com/sota/question-answering-on-truthfulqa) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
 
-- TruthX is an inference-time method to elicit the truthfulness of LLMs by editing their internal representations in truthful space, thereby mitigating the hallucinations of LLMs.
+- TruthX is an inference-time method to activate the truthfulness of LLMs by editing their internal representations, thereby mitigating the hallucinations.
 - TruthX can control LLMs to generate truthful or hallucinatory responses by editing only a vector in truthful space.
-- On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 advanced LLMs.
+- On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 LLMs.  <font color=red>#Ranked 2 behind GPT-4</font>.
 </div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Speech</div><img src='images/streamspeech.png' alt="sym" width="100%">
 
+<details>
+<summary>Demo</summary>
+  <img src="images/streamspeech.gif" alt="img" width="100%" />
+</details>
 
 </div>
 </div>
@@ -90,10 +94,9 @@ His research interests include nature language processing, <font color=red>simul
 [StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/abs/2406.03049) \\
 **Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2406.03049) [![project](https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Listen%20to%20StreamSpeech-orange.svg)](https://ictnlp.github.io/StreamSpeech-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20-Model-blue.svg)](https://huggingface.co/ICTNLP/StreamSpeech_Models/tree/main) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech)
+[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2406.03049) [![project](https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Listen%20to%20StreamSpeech-orange.svg)](https://ictnlp.github.io/StreamSpeech-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/StreamSpeech_Models/tree/main) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStreamSpeech&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech)
 
-- StreamSpeech is an "All in One" seamless model for offline and simultaneous speech recognition, speech translation and speech synthesis.
-- StreamSpeech achieves SOTA performance on both offline and simultaneous speech-to-speech translation.
+- StreamSpeech is an <font color=red>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
 - StreamSpeech can present intermediate results (i.e., ASR or translation results) during simultaneous translation, offering a more comprehensive low-latency communication experience.
 </div>
 </div>
@@ -113,6 +116,12 @@ His research interests include nature language processing, <font color=red>simul
 </div>
 
 ## 2024
+
+[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf) ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social)
+> **Shaolei Zhang**, Tian Yu, Yang Feng
+>
+> [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)
+
 - ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; **Shaolei Zhang**, Tian Yu, Yang Feng. [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/)
 - ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; **Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng. [StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/pdf/2406.03049). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/StreamSpeech) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/StreamSpeech-site/)
 - ![](https://img.shields.io/badge/ACL-2024-white.svg?style=social) &nbsp; Tian Yu, **Shaolei Zhang**, Yang Feng. [Truth-Aware Context Selection: Mitigating the Hallucinations of Large Language Models Being Misled by Untruthful Contexts](https://arxiv.org/pdf/2403.07556.pdf). [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TACS)
