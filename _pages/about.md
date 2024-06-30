@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font color=black>**Shaolei Zhang**</font> (<font color=black>**张绍磊**</font>) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
+**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
 His research interests include nature language processing, <font color=red>simultaneous model of text/speech</font> and <font color=blue>large language model</font>. He has published over **20 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
 
@@ -37,7 +37,7 @@ His research interests include nature language processing, <font color=red>simul
 - *2022.02*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by ACL 2022!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multilingual</div><img src='images/bayling.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multilingual LLM</div><img src='images/bayling.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
@@ -59,7 +59,7 @@ His research interests include nature language processing, <font color=red>simul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy</div><img src='images/truthx.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy LLM</div><img src='images/truthx.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
@@ -98,9 +98,9 @@ His research interests include nature language processing, <font color=red>simul
 
 [![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2406.03049) [![project](https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Listen%20to%20StreamSpeech-orange.svg)](https://ictnlp.github.io/StreamSpeech-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/StreamSpeech_Models/tree/main) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStreamSpeech&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech)
 
-- StreamSpeech is an <font color=blue>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
-- StreamSpeech can present intermediate results (i.e., ASR or translation results) during simultaneous translation, offering a more comprehensive low-latency communication experience.
-- Get over <font color=red>100K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
+- StreamSpeech is an <font color=red>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
+- StreamSpeech can present intermediate results (i.e., ASR or translation results) during simultaneous translation, offering a more comprehensive <font color=blue>low-latency communication experience</font> .
+- Get over <font color=red>300 reposts</font> and <font color=red>100K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
 </div>
 </div>
 
