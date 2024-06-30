@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Shaolei Zhang** (**张绍磊**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
+<font color=black>**Shaolei Zhang**</font> (<font color=black>**张绍磊**</font>) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
-His research interests include nature language processing, <font color=red>simultaneous translation</font> and <font color=blue>large language model</font>. He has published over *20 papers* at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
+His research interests include nature language processing, <font color=red>simultaneous model of text/speech</font> and <font color=blue>large language model</font>. He has published over **20 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
 
 > I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
@@ -53,8 +53,8 @@ His research interests include nature language processing, <font color=red>simul
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2306.10968) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](http://nlp.ict.ac.cn/bayling) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://nlp.ict.ac.cn/bayling/demo) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/bayling-13b-v1.1) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing)
 
-- BayLing (百聆) is a LLM equipped with advanced language alignment.
-- BayLing is the  <font color=red>Ofirst research to use language alignments to enhance LLM's multilingual capabilities</font>.
+- BayLing (百聆) is a LLM equipped with advanced language alignments.
+- BayLing is the first research to <font color=blue>use language alignments to enhance LLM's multilingual capabilities</font>.
 - BayLing is selected for inclusion in the [2022-2023 Top 100 Opensource achievements: <font color=red>Open100 (2022-2023)</font>](https://www.benchcouncil.org/evaluation/opencs/annual.html), launched by the International Open Benchmark Council (BenchCouncil).
 </div>
 </div>
@@ -76,7 +76,7 @@ His research interests include nature language processing, <font color=red>simul
 [![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![project](https://img.shields.io/badge/%F0%9F%93%9A%20Homepage-Try%20TruthX-orange.svg)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/truthx-alleviating-hallucinations-by-editing/question-answering-on-truthfulqa)](https://paperswithcode.com/sota/question-answering-on-truthfulqa) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
 
 - TruthX is an inference-time method to activate the truthfulness of LLMs by editing their internal representations, thereby mitigating the hallucinations.
-- TruthX can control LLMs to generate truthful or hallucinatory responses by editing only a vector in truthful space.
+- TruthX can control LLMs to <font color=blue>generate truthful or hallucinatory responses by editing only a vector in truthful space.
 - On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 LLMs.  <font color=red>#Ranked 2 behind GPT-4</font>.
 </div>
 </div>
@@ -98,8 +98,9 @@ His research interests include nature language processing, <font color=red>simul
 
 [![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2406.03049) [![project](https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Listen%20to%20StreamSpeech-orange.svg)](https://ictnlp.github.io/StreamSpeech-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/StreamSpeech_Models/tree/main) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStreamSpeech&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech)
 
-- StreamSpeech is an <font color=red>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
+- StreamSpeech is an <font color=blue>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
 - StreamSpeech can present intermediate results (i.e., ASR or translation results) during simultaneous translation, offering a more comprehensive low-latency communication experience.
+- Get over <font color=red>100K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
 </div>
 </div>
 
