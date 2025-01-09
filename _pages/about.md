@@ -122,7 +122,7 @@ His research interests include nature language processing, <font color=red>simul
 ## 2025
 
 - [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
-Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
+Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
 
 
 ## 2024
