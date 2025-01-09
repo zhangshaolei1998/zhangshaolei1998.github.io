@@ -60,25 +60,29 @@ His research interests include nature language processing, <font color=red>simul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy LLM</div><img src='images/truthx.png' alt="sym" width="100%">
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision</div><img src='images/llava_mini.png' alt="sym" width="100%">
 
 <details>
 <summary>Demo</summary>
-  <img src="images/truthx.gif" alt="img" width="100%" />
+  <img src="images/llava_mini.gif" alt="img" width="100%" />
 </details>
 
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
-**Shaolei Zhang**, Tian Yu, Yang Feng
+[LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/abs/2501.03895) \\
+**Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![project](https://img.shields.io/badge/%F0%9F%93%9A%20Homepage-Try%20TruthX-orange.svg)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/truthx-alleviating-hallucinations-by-editing/question-answering-on-truthfulqa)](https://paperswithcode.com/sota/question-answering-on-truthfulqa) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
+[![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech)
 
-- TruthX is an inference-time method to activate the truthfulness of LLMs by editing their internal representations, thereby mitigating the hallucinations.
-- TruthX can control LLMs to <font color=blue>generate truthful or hallucinatory responses by editing only a vector in truthful space.
-- On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 LLMs.  <font color=red>#Ranked 2 behind GPT-4</font>.
+- LLaVA-Mini is a <font color=red>unified large multimodal model</font> that can support the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
+- LLaVA-Mini only requires 1 token to represent each image, which improves the efficiency of image and video understanding, including:
+  - **Computational effort**: <font color=blue>77% FLOPs</font> reduction;
+  - **Response latency**: reduce from 100 milliseconds to <font color=blue>40 milliseconds</font>;
+  - **VRAM memory usage**: reduce from 360 MB/image to <font color=blue>0.6 MB/image</font>, support <font color=blue>3-hour video processing</font>;
 </div>
 </div>
 
@@ -107,6 +111,32 @@ His research interests include nature language processing, <font color=red>simul
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy LLM</div><img src='images/truthx.png' alt="sym" width="100%">
+
+<details>
+<summary>Demo</summary>
+  <img src="images/truthx.gif" alt="img" width="100%" />
+</details>
+
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811) \\
+**Shaolei Zhang**, Tian Yu, Yang Feng
+
+[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2402.17811) [![project](https://img.shields.io/badge/%F0%9F%93%9A%20Homepage-Try%20TruthX-orange.svg)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/truthx-alleviating-hallucinations-by-editing/question-answering-on-truthfulqa)](https://paperswithcode.com/sota/question-answering-on-truthfulqa) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX)
+
+- TruthX is an inference-time method to activate the truthfulness of LLMs by editing their internal representations, thereby mitigating the hallucinations.
+- TruthX can control LLMs to <font color=blue>generate truthful or hallucinatory responses by editing only a vector in truthful space.
+- On [TruthfulQA benchmark](https://paperswithcode.com/sota/question-answering-on-truthfulqa), TruthX yields an average enhancement of 20% in truthfulness across 13 LLMs.  <font color=red>#Ranked 2 behind GPT-4</font>.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GitHub Repo</div><img src='images/st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,6 +150,9 @@ His research interests include nature language processing, <font color=red>simul
 </div>
 
 ## 2025
+
+- [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). &nbsp; Preprint 2025.<br>
+Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)<br>
 
 - [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
@@ -137,22 +170,22 @@ Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.
 Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni)<br>
 
 - [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Tian Yu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX)<br>
+**Shaolei Zhang**, Tian Yu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/101796-truthx-alleviating-hallucinations-by-editing-large-language-models-in-truthful-space)<<br>
 
 - [StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning](https://arxiv.org/pdf/2406.03049). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
-**Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.03049) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/StreamSpeech) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/StreamSpeech-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/StreamSpeech_Models)<br>
+**Shaolei Zhang**, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.03049) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/StreamSpeech) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/StreamSpeech-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/StreamSpeech_Models) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/102738-streamspeech-simultaneous-speech-to-speech-translation-with-multi-task-learning)<<br>
 
 - [Truth-Aware Context Selection: Mitigating Hallucinations of Large Language Models Being Misled by Untruthful Contexts](https://arxiv.org/pdf/2403.07556.pdf). &nbsp; ACL 2024 findings (<font color=red>CCF-A</font>).<br>
-Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2403.07556) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TACS) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/TACS_Truth_Detection_Classifiers)<br>
+Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2403.07556) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TACS) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/TACS_Truth_Detection_Classifiers) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/102020-truth-aware-context-selection-mitigating-hallucinations-of-large-language-models-being-misled-by-untruthful-contexts)<<br>
 
 - [Can We Achieve High-quality Direct Speech-to-Speech Translation Without Parallel Speech Data?](https://arxiv.org/pdf/2406.07289) &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
-Qingkai Fang, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.07289) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/ComSpeech) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/ComSpeech-Site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/ComSpeech_Models)<br>
+Qingkai Fang, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.07289) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/ComSpeech) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/ComSpeech-Site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/ComSpeech_Models) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/102717-can-we-achieve-high-quality-direct-speech-to-speech-translation-without-parallel-speech-dataquestion)<<br>
 
 - [Decoder-only Streaming Transformer for Simultaneous Translation](https://arxiv.org/pdf/2406.03878). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
-Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.03878) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/DST) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/DST)<br>
+Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.03878) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/DST) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/DST) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/102737-decoder-only-streaming-transformer-for-simultaneous-translation)<<br>
 
 - [A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation](https://arxiv.org/pdf/2406.06937). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
-Zhengrui Ma, Qingkai Fang, **Shaolei Zhang**, Shoutao Guo, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06937) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/NAST-S2x) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://nast-s2x.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/NAST-S2X)<br>
+Zhengrui Ma, Qingkai Fang, **Shaolei Zhang**, Shoutao Guo, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06937) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/NAST-S2x) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://nast-s2x.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/NAST-S2X)<<br>
 
 - [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; Preprint 2024.<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06910) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)<br>
@@ -237,12 +270,16 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
+- "浅谈大模型时代的研究转变：选题和实践" on ASCII-116
+- "如何在大模型技术迭代中把握科研节奏" on IMLIP 2024
+- "流式翻译进展分享" share talk in Li Auto
+- "缓解大语言模型幻觉：从内部表示视角" share talk in Tencent
 - "大模型时代的科研选题和实践分享" on MLNLP Academic Seminar [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/MLNLP_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A7%91%E7%A0%94%E9%80%89%E9%A2%98%E5%92%8C%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "跨语言对齐增强大模型——百聆" on AI TIME 大模型嘉年华 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/AI-Time%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%98%89%E5%B9%B4%E5%8D%8E_%E8%B7%A8%E8%AF%AD%E8%A8%80%E5%AF%B9%E9%BD%90%E5%A4%A7%E6%A8%A1%E5%9E%8B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1yt4y1Z7Ck/?spm_id_from=333.999.0.0)]
 - "如何在大模型时代找到科研切入点？" on CCMT 2023 [[Slides](https://zhangshaolei1998.github.io/slides/CCMT%E5%AD%A6%E7%94%9F%E8%AE%BA%E5%9D%9B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1TW4y1F7uD/)]
 - "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Slides](https://zhangshaolei1998.github.io/slides/MLNLP%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A_%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%E7%BB%BC%E8%BF%B0_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
 - AI Time Youth Talk for ICLR 2023 [[Video](https://www.bilibili.com/video/BV1Wk4y1W7yr/?spm_id_from=333.999.0.0&vd_source=c899334e93a187eda3344c9e3cbb3c9a)]
-- Share talks in ByteDance, Huawei, Tencent, Li Auto
+- Internal share talks in ByteDance, Huawei, Tencent, Li Auto
 
 # 💻 Internships
 - *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
