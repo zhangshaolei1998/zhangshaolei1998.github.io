@@ -78,7 +78,7 @@ His research interests include nature language processing, <font color=red>simul
 
 [![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech)
 
-- LLaVA-Mini is a <font color=red>unified large multimodal model</font> that can support the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
+- LLaVA-Mini is a <font color=red>unified large multimodal model</font> that supports the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
 - LLaVA-Mini only requires 1 token to represent each image, which improves the efficiency of image and video understanding, including:
   - **Computational effort**: <font color=blue>77% FLOPs</font> reduction;
   - **Response latency**: reduce from 100 milliseconds to <font color=blue>40 milliseconds</font>;
@@ -259,7 +259,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 
 # 👏 Services
 - **Area Chair** of ACL/EACL/NAACL ARR 2023 
-- **Reviewer** of ACL/EMNLP/COLING/NAACL/EACL/NeurIPS, Computing Survey
+- **Reviewer** of ACL/EMNLP/COLING/NAACL/EACL/NeurIPS/ICLR/ICML, Computing Survey
 - **Session Chair** of Student Seminar in [CCL 2024](http://cips-cl.org/static/CCL2024/index.html)
 - **Session Chair** of Student Seminar in [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html)
 - 中国中文信息学会青年工作委员会 **学生执委会主任** 2020-2024
@@ -270,10 +270,10 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
-- "浅谈大模型时代的研究转变：选题和实践" on ASCII-116
-- "如何在大模型技术迭代中把握科研节奏" on IMLIP 2024
-- "流式翻译进展分享" share talk in Li Auto
-- "缓解大语言模型幻觉：从内部表示视角" share talk in Tencent
+- "浅谈大模型时代的研究转变：选题和实践" on ASCII-116 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/ASCII116_%E6%B5%85%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A0%94%E7%A9%B6%E8%BD%AC%E5%8F%98_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
+- "如何在大模型技术迭代中把握科研节奏" on IMLIP 2024 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/IMLIP2024_%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3%E4%B8%AD%E6%8A%8A%E6%8F%A1%E7%A7%91%E7%A0%94%E8%8A%82%E5%A5%8F_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
+- "流式翻译进展分享" share talk in Li Auto [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/%E7%90%86%E6%83%B3%E5%88%86%E4%BA%AB_%E6%B5%81%E5%BC%8F%E7%BF%BB%E8%AF%91%E8%BF%9B%E5%B1%95%E5%88%86%E4%BA%AB_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
+- "缓解大语言模型幻觉：从内部表示视角" share talk in Tencent [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/%E8%85%BE%E8%AE%AF%E5%88%86%E4%BA%AB_%E7%BC%93%E8%A7%A3%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%B9%BB%E8%A7%89_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "大模型时代的科研选题和实践分享" on MLNLP Academic Seminar [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/MLNLP_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A7%91%E7%A0%94%E9%80%89%E9%A2%98%E5%92%8C%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "跨语言对齐增强大模型——百聆" on AI TIME 大模型嘉年华 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/AI-Time%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%98%89%E5%B9%B4%E5%8D%8E_%E8%B7%A8%E8%AF%AD%E8%A8%80%E5%AF%B9%E9%BD%90%E5%A4%A7%E6%A8%A1%E5%9E%8B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1yt4y1Z7Ck/?spm_id_from=333.999.0.0)]
 - "如何在大模型时代找到科研切入点？" on CCMT 2023 [[Slides](https://zhangshaolei1998.github.io/slides/CCMT%E5%AD%A6%E7%94%9F%E8%AE%BA%E5%9D%9B_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV1TW4y1F7uD/)]
