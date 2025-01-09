@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
+**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
-His research interests include nature language processing, <font color=red>simultaneous model of text/speech</font> and <font color=blue>large language model</font>. He has published over **20 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. 
+His research interests include nature language processing, <font color=red>simultaneous model of text/speech</font> and <font color=blue>large language model</font>. He has published over **20 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. He won the first place in the streaming transcription track of AutoSimTrans 2021. He has served as Area Chair of ACL/EACL/NAACL ARR 2023 and Reviewer of Top AI/NLP conferences.
 
 > I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by AAAI 2025!
 - *2024.05*: &nbsp;🎉	<font color=red>6 papers</font> are accepted by ACL 2024!
 - *2023.12*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICASSP 2024!
 - *2023.10*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by EMNLP 2023!
@@ -100,7 +101,7 @@ His research interests include nature language processing, <font color=red>simul
 
 - StreamSpeech is an <font color=red>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
 - StreamSpeech can present intermediate results (i.e., ASR or translation results) during simultaneous translation, offering a more comprehensive <font color=blue>low-latency communication experience</font> .
-- Get over <font color=red>300 reposts</font> and <font color=red>100K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
+- Get over <font color=red>500 reposts</font> and <font color=red>300K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
 </div>
 </div>
 
@@ -118,7 +119,22 @@ His research interests include nature language processing, <font color=red>simul
 </div>
 </div>
 
+## 2025
+
+- [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
+Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
+
+
 ## 2024
+
+- [Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/pdf/2411.19443). &nbsp; Preprint 2024.<br>
+Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2411.19443) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Auto-RAG) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Auto-RAG-Llama-3-8B-Instruct)<br>
+
+- [BayLing 2: A Multilingual Large Language Model with Efficient Language Alignment](https://arxiv.org/pdf/2411.16300). &nbsp; Preprint 2024.<br>
+**Shaolei Zhang**, Kehao Zhang, Qingkai Fang, Shoutao Guo, Yan Zhou, Xiaodong Liu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2411.16300) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/BayLing) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://aicloud.oneainexus.cn:30013/bayling2/#/bayling2) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/bayling-2-llama-3-8b)<br>
+
+- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; Preprint 2024.<br>
+Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni)<br>
 
 - [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Tian Yu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX)<br>
