@@ -25,7 +25,8 @@ His research interests include nature language processing, <font color=red>simul
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by AAAI 2025!
+- *2025.01*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ICLR 2025!
+- *2024.11*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by AAAI 2025!
 - *2024.05*: &nbsp;🎉	<font color=red>6 papers</font> are accepted by ACL 2024!
 - *2023.12*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICASSP 2024!
 - *2023.10*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by EMNLP 2023!
@@ -76,7 +77,7 @@ His research interests include nature language processing, <font color=red>simul
 [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/abs/2501.03895) \\
 **Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
+[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
 
 - LLaVA-Mini is a <font color=red>unified large multimodal model</font> that can support the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
 - LLaVA-Mini only requires 1 token to represent each image, which improves the efficiency of image and video understanding, including:
@@ -152,7 +153,11 @@ His research interests include nature language processing, <font color=red>simul
 ## 2025
 
 - [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). &nbsp; Preprint 2025.<br>
-Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)<br>
+Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)<br>
+
+
+- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; Preprint 2024.<br>
+Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni)<br>
 
 - [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
@@ -165,9 +170,6 @@ Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.
 
 - [BayLing 2: A Multilingual Large Language Model with Efficient Language Alignment](https://arxiv.org/pdf/2411.16300). &nbsp; Preprint 2024.<br>
 **Shaolei Zhang**, Kehao Zhang, Qingkai Fang, Shoutao Guo, Yan Zhou, Xiaodong Liu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2411.16300) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/BayLing) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://aicloud.oneainexus.cn:30013/bayling2/#/bayling2) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/bayling-2-llama-3-8b)<br>
-
-- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; Preprint 2024.<br>
-Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni)<br>
 
 - [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811.pdf). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
 **Shaolei Zhang**, Tian Yu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2402.17811) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/TruthX) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ictnlp.github.io/TruthX-site/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-2-7b-chat-TruthX) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://underline.io/lecture/101796-truthx-alleviating-hallucinations-by-editing-large-language-models-in-truthful-space)<br>
@@ -270,6 +272,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
+- "迈向实时跨语言沟通：实时语音模型的挑战、技术和未来" on Xmart青年论坛 
 - "浅谈大模型时代的研究转变：选题和实践" on ASCII-116 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/ASCII116_%E6%B5%85%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A0%94%E7%A9%B6%E8%BD%AC%E5%8F%98_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "如何在大模型技术迭代中把握科研节奏" on IMLIP 2024 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/IMLIP2024_%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3%E4%B8%AD%E6%8A%8A%E6%8F%A1%E7%A7%91%E7%A0%94%E8%8A%82%E5%A5%8F_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "流式翻译进展分享" share talk in Li Auto [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/%E7%90%86%E6%83%B3%E5%88%86%E4%BA%AB_%E6%B5%81%E5%BC%8F%E7%BF%BB%E8%AF%91%E8%BF%9B%E5%B1%95%E5%88%86%E4%BA%AB_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
