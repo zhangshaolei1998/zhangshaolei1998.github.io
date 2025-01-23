@@ -77,7 +77,7 @@ His research interests include nature language processing, <font color=red>simul
 [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/abs/2501.03895) \\
 **Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
+[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FLLaVA-Mini&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Vistors&edge_flat=false)](https://github.com/ictnlp/LLaVA-Mini) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
 
 - LLaVA-Mini is a <font color=red>unified large multimodal model</font> that can support the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
 - LLaVA-Mini only requires 1 token to represent each image, which improves the efficiency of image and video understanding, including:
@@ -272,7 +272,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
-- "迈向实时跨语言沟通：实时语音模型的挑战、技术和未来" on Xmart青年论坛 
+- "迈向实时跨语言沟通：实时语音模型的挑战、技术和未来" on Xmart青年论坛 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/Xmart_%E8%BF%88%E5%90%91%E5%AE%9E%E6%97%B6%E8%B7%A8%E8%AF%AD%E8%A8%80%E6%B2%9F%E9%80%9A-%E5%AE%9E%E6%97%B6%E8%AF%AD%E9%9F%B3%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8C%91%E6%88%98%E3%80%81%E6%8A%80%E6%9C%AF%E5%92%8C%E6%9C%AA%E6%9D%A5_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://www.bilibili.com/video/BV15nwLeaEU1/)]
 - "浅谈大模型时代的研究转变：选题和实践" on ASCII-116 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/ASCII116_%E6%B5%85%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A0%94%E7%A9%B6%E8%BD%AC%E5%8F%98_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "如何在大模型技术迭代中把握科研节奏" on IMLIP 2024 [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/IMLIP2024_%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3%E4%B8%AD%E6%8A%8A%E6%8F%A1%E7%A7%91%E7%A0%94%E8%8A%82%E5%A5%8F_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
 - "流式翻译进展分享" share talk in Li Auto [[Slides](https://github.com/zhangshaolei1998/zhangshaolei1998.github.io/blob/main/slides/%E7%90%86%E6%83%B3%E5%88%86%E4%BA%AB_%E6%B5%81%E5%BC%8F%E7%BF%BB%E8%AF%91%E8%BF%9B%E5%B1%95%E5%88%86%E4%BA%AB_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)]
