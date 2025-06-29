@@ -24,7 +24,7 @@ He is dedicated to **<font color=red>developing next-generation human-computer i
 - **Multimodal Models**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
 - **Trustworthy LLMs**: [TruthX](https://arxiv.org/pdf/2402.17811) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX), [Auto-RAG](https://arxiv.org/pdf/2411.19443) [![](https://img.shields.io/github/stars/ictnlp/Auto-RAG?style=social&label=Code+Stars)](https://github.com/ictnlp/Auto-RAG)
 
-Beyond his research, he won the first place in the streaming transcription track of AutoSimTrans 2021. He is actively engaged in sharing researches and insights at various academic events. He has served as Area Chair of ACL ARR (*CCF-A AI Conference*) and Reviewer of Top AI/NLP conferences.
+Beyond his research, he won the first place in the streaming transcription track of AutoSimTrans 2021. He is actively engaged in sharing researches and insights at various academic events. He is serving as Area Chair of ACL ARR (*CCF-A Conference*) and Reviewer of Top AI/NLP conferences.
 
 
 
@@ -32,6 +32,8 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ACL 2025!
+- *2025.05*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by TASLP Journal!
 - *2025.01*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ICLR 2025!
 - *2024.11*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by AAAI 2025!
 - *2024.05*: &nbsp;🎉	<font color=red>6 papers</font> are accepted by ACL 2024!
@@ -87,7 +89,7 @@ Beyond his research, he won the first place in the streaming transcription track
 [![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2506.13642) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-stream--omni--8b-orange.svg)](https://huggingface.co/ICTNLP/stream-omni-8b) [![data](https://img.shields.io/badge/%F0%9F%93%91%20Datasets%20-InstructOmni-green.svg)](https://huggingface.co/datasets/ICTNLP/InstructOmni) [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStream-Omni&label=Visitors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/Stream-Omni) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni) [![zhihu](https://img.shields.io/badge/-WeChat@语音之家-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/x41V_PrN_I8IlhxMOAeiJw) 
 
 - Stream-Omni is a <font color=red>GPT-4o-like language-vision-speech chatbot</font> that simultaneously supports interaction across various modality combinations.
-- Stream-Omni can simultaneously output intermediate textual results (e.g., ASR transcriptions and model responses) during speech interactions, like the advanced voice service of GPT-4o.
+- Stream-Omni can simultaneously output <font color=red>intermediate textual results (e.g., ASR transcriptions and model responses)</font> during speech interactions, like the advanced voice service of GPT-4o.
 </div>
 </div>
 
@@ -189,10 +191,10 @@ Beyond his research, he won the first place in the streaming transcription track
 Qingkai Fang, Yan Zhou, Shoutao Guo, **Shaolei Zhang**, Yang Feng &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2505.02625) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni2) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/collections/ICTNLP/llama-omni-67fdfb852c60470175e36e9c)<br>
 
 - [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). &nbsp; ICLR 2025.<br>
-**Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://iclr.cc/virtual/2025/poster/29475)<br><br>
+**Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://iclr.cc/virtual/2025/poster/29475)<br>
 
 - [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; ICLR 2025.<br>
-Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://iclr.cc/virtual/2025/poster/29748)<br><br>
+Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://iclr.cc/virtual/2025/poster/29748)<br>
 
 - [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
