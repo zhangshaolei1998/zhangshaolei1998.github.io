@@ -19,14 +19,16 @@ redirect_from:
 
 **<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
-He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>natural language processing</font>*, *<font color=blue>simultaneous/streaming models</font>*, and *<font color=blue>large language models</font>*. He has published over **20 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
+He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>largemultimodal models</font>*, and <font color=blue>simultaneous/streaming model</font>. He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
 - **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
-- **Multimodal Models**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
+- **Multimodal Models**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
 - **Trustworthy LLMs**: [TruthX](https://arxiv.org/pdf/2402.17811) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX), [Auto-RAG](https://arxiv.org/pdf/2411.19443) [![](https://img.shields.io/github/stars/ictnlp/Auto-RAG?style=social&label=Code+Stars)](https://github.com/ictnlp/Auto-RAG)
 
-Beyond his research, he won the first place in the streaming transcription track of AutoSimTrans 2021. He is actively engaged in sharing researches and insights at various academic events. He has served as Area Chair of ACL/EACL/NAACL ARR 2023 and Reviewer of Top AI/NLP conferences.
+Beyond his research, he won the first place in the streaming transcription track of AutoSimTrans 2021. He is actively engaged in sharing researches and insights at various academic events. He has served as Area Chair of ACL ARR (*CCF-A AI Conference*) and Reviewer of Top AI/NLP conferences.
 
-> I'm willing to communicate and share my research, and interested in opportunities in the industry, academia or postdoc. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
+
+
+> I'm willing to communicate and share my research, and interested in project/research collaborations in the industry and academia. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
 
 
 # 🔥 News
@@ -66,6 +68,28 @@ Beyond his research, he won the first place in the streaming transcription track
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Language+Vision+Speech</div><img src='images/stream_omni.png' alt="sym" width="100%">
+
+<details>
+<summary>Demo</summary>
+ <video src="images/stream_omni.mp4" controls autoplay loop muted style="width: 100%;">
+</video>
+</details>
+
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642) \\
+**Shaolei Zhang**, Shoutao Guo, Qingkai Fang, Yan Zhou, Yang Feng
+
+[![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2506.13642) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-stream--omni--8b-orange.svg)](https://huggingface.co/ICTNLP/stream-omni-8b) [![data](https://img.shields.io/badge/%F0%9F%93%91%20Datasets%20-InstructOmni-green.svg)](https://huggingface.co/datasets/ICTNLP/InstructOmni) [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStream-Omni&label=Visitors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/Stream-Omni) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni)
+
+- Stream-Omni is a <font color=red>GPT-4o-like language-vision-speech chatbot</font> that simultaneously supports interaction across various modality combinations.
+- Stream-Omni can simultaneously output intermediate textual results (e.g., ASR transcriptions and model responses) during speech interactions, like the advanced voice service of GPT-4o.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision</div><img src='images/llava_mini.png' alt="sym" width="100%">
@@ -157,15 +181,23 @@ Beyond his research, he won the first place in the streaming transcription track
 
 ## 2025
 
-- [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). &nbsp; Preprint 2025.<br>
-Tian Yu, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)<br>
+- [Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642). &nbsp; Preprint 2025.<br>
+**Shaolei Zhang**, Shoutao Guo, Qingkai Fang, Yan Zhou, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2506.13642) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Stream-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/stream-omni-8b)<br>
 
+- [LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis](https://arxiv.org/abs/2505.02625). &nbsp; ACL 2025.<br>
+Qingkai Fang, Yan Zhou, Shoutao Guo, **Shaolei Zhang**, Yang Feng &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2505.02625) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni2) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/collections/ICTNLP/llama-omni-67fdfb852c60470175e36e9c)<br>
 
-- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; Preprint 2024.<br>
+- [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). &nbsp; ICLR 2025.<br>
+**Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.03895) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaVA-Mini) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)<br>
+
+- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; ICLR 2025.<br>
 Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni)<br>
 
 - [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
+
+- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; TASLP.<br>
+Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_TASLP_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06910) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)<br>
 
 
 ## 2024
@@ -193,9 +225,6 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 
 - [A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation](https://arxiv.org/pdf/2406.06937). &nbsp; ACL 2024 (<font color=red>CCF-A</font>).<br>
 Zhengrui Ma, Qingkai Fang, **Shaolei Zhang**, Shoutao Guo, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06937) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/NAST-S2x) [![project](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://nast-s2x.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/NAST-S2X)<br>
-
-- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; Preprint 2024.<br>
-Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06910) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)<br>
 
 - [Glancing Future for Simultaneous Machine Translation](https://arxiv.org/pdf/2309.06179.pdf). &nbsp; ICASSP 2024 **<font color=red>Oral</font>** (<font color=red>CCF-B</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICASSP_2024-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2309.06179) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Glance-SiMT)<br>
@@ -257,6 +286,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 
 
 # 🏆 Honors and Awards
+- [2025]  UCAS's Wang Shouwu Scholarship (中国科学院大学王守武奖学金)
 - [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所 所长特别奖(夏培肃奖)) [Highest award in ICT/CAS, **<font color=red>Top 2</font>**]
 - [2022]	National Scholarship (国家奖学金)
 - [2021]	**<font color=red>First place</font>** in the streaming track of [AutoSimTrans 2021](https://autosimtrans.github.io/2021/program.html) (organized by Baidu/Huawei/Google)
@@ -265,7 +295,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - [2017]	National Scholarship (国家奖学金)
 
 # 👏 Services
-- **Area Chair** of ACL/EACL/NAACL ARR 2023 
+- **Area Chair** of ACL/EACL/NAACL ARR (from 2023 to now)
 - **Reviewer** of ACL/EMNLP/COLING/NAACL/EACL/NeurIPS/ICLR/ICML, Computing Survey
 - **Session Chair** of Student Seminar in [CCL 2024](http://cips-cl.org/static/CCL2024/index.html)
 - **Session Chair** of Student Seminar in [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html)
@@ -273,7 +303,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021/2023
 
 # 📖 Educations
-- *2020.06 - 2025.06*: Ph.D. Candidate. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
+- *2020.06 - 2025.06*: Ph.D. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
