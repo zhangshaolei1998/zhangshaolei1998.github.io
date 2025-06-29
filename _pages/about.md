@@ -28,7 +28,7 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 
-> I'm willing to communicate and share my research, and interested in project/research collaborations in the industry and academia. If you would like to connect with me, please feel free to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`.
+> I'm willing to communicate and share my research, and interested in **project/research collaborations** in the industry and academia. If you would like to connect with me, welcome to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`😄
 
 
 # 🔥 News
@@ -62,7 +62,7 @@ Beyond his research, he won the first place in the streaming transcription track
 [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968) \\
 **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2306.10968) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](http://nlp.ict.ac.cn/bayling) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://nlp.ict.ac.cn/bayling/demo) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/bayling-13b-v1.1) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing) [![zhihu](https://img.shields.io/badge/-WeChat@机器之心-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/JXQvwdBl2JrSbBwGB1h9_A) [![zhihu](https://img.shields.io/badge/-WeChat@信息高铁研究院-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/Y7Dxhxtkop4GNbU7rqxusQ)
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2306.10968) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](http://nlp.ict.ac.cn/bayling) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://nlp.ict.ac.cn/bayling/demo) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/bayling-13b-v1.1) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing) [![zhihu](https://img.shields.io/badge/WeChat-@机器之心-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/JXQvwdBl2JrSbBwGB1h9_A) [![zhihu](https://img.shields.io/badge/WeChat-@信息高铁研究院-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/Y7Dxhxtkop4GNbU7rqxusQ)
 
 
 - BayLing (百聆) is a LLM equipped with advanced language alignments.
@@ -86,10 +86,10 @@ Beyond his research, he won the first place in the streaming transcription track
 [Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642) \\
 **Shaolei Zhang**, Shoutao Guo, Qingkai Fang, Yan Zhou, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2506.13642) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-stream--omni--8b-orange.svg)](https://huggingface.co/ICTNLP/stream-omni-8b) [![data](https://img.shields.io/badge/%F0%9F%93%91%20Datasets%20-InstructOmni-green.svg)](https://huggingface.co/datasets/ICTNLP/InstructOmni) [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStream-Omni&label=Visitors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/Stream-Omni) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni) [![zhihu](https://img.shields.io/badge/-WeChat@语音之家-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/x41V_PrN_I8IlhxMOAeiJw) 
+[![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2506.13642) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-stream--omni--8b-orange.svg)](https://huggingface.co/ICTNLP/stream-omni-8b) [![data](https://img.shields.io/badge/%F0%9F%93%91%20Datasets%20-InstructOmni-green.svg)](https://huggingface.co/datasets/ICTNLP/InstructOmni) [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStream-Omni&label=Visitors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/Stream-Omni) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni) [![zhihu](https://img.shields.io/badge/WeChat-@语音之家-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/x41V_PrN_I8IlhxMOAeiJw) 
 
 - Stream-Omni is a <font color=red>GPT-4o-like language-vision-speech chatbot</font> that simultaneously supports interaction across various modality combinations.
-- Stream-Omni can simultaneously output <font color=red>intermediate textual results (e.g., ASR transcriptions and model responses)</font> during speech interactions, like the advanced voice service of GPT-4o.
+- Stream-Omni can simultaneously output <font color=blue>intermediate textual results (e.g., ASR transcriptions and model responses)</font> during speech interactions, like the advanced voice service of GPT-4o.
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Beyond his research, he won the first place in the streaming transcription track
 [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/abs/2501.03895) \\
 **Shaolei Zhang**, Qingkai Fang, Zhe Yang, Yang Feng
 
-[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FLLaVA-Mini&label=Vistors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/LLaVA-Mini) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini) [![zhihu](https://img.shields.io/badge/-WeChat@机器之心-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/tlFW5FSVWeFri6JfeRxxWw) 
+[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FLLaVA-Mini&label=Vistors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/LLaVA-Mini) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini) [![zhihu](https://img.shields.io/badge/WeChat-@机器之心-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/tlFW5FSVWeFri6JfeRxxWw) 
 
 - LLaVA-Mini is a <font color=red>unified large multimodal model</font> that can support the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
 - LLaVA-Mini only requires 1 token to represent each image, which improves the efficiency of image and video understanding, including:
@@ -199,7 +199,7 @@ Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  
 - [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
 
-- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; TASLP 2025.<br>
+- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; TASLP 2025. (<font color=red>CCF-B</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_TASLP_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06910) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)<br>
 
 
