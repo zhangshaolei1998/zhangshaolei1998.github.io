@@ -63,9 +63,9 @@ Beyond his research, he won the first place in the streaming transcription track
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><em>2025.08:</em> 🎉 <font color=red><strong>I join the School of Information at Renmin University of China, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></li>
+  <li><em>2025.08:</em> 🎉 <font color=blue><strong>I join the School of Information at Renmin University of China, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></li>
   <li><em>2025.08:</em> 🎉 <font color=red>2 paper</font> was accepted by <strong>EMNLP 2025</strong>! Congrats to all collaborators!</li>
-  <li><em>2025.08:</em> 🎉 <font color=red><strong>I obtained my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences. I am deeply grateful to my advisor, Professor Yang Feng, and to all my collaborators during my doctoral studies!</strong></font></li>
+  <li><em>2025.08:</em> 🎉 <font color=blue><strong>I obtained my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences. I am deeply grateful to my advisor, Professor Yang Feng, and to all my collaborators during my PH.D. studies!</strong></font></li>
   <li><em>2025.05:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>ACL 2025</strong>! Congrats to all collaborators!</li>
   <li><em>2025.05:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>IEEE/ACM TASLP</strong>! Congrats to all collaborators!</li>
   <li><em>2025.01:</em> 🎉 <font color=red>2 papers</font> were accepted by <strong>ICLR 2025</strong>! Congrats to all collaborators!</li>
