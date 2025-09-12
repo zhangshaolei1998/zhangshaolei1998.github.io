@@ -34,20 +34,70 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ACL 2025!
-- *2025.05*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by TASLP Journal!
-- *2025.01*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ICLR 2025!
-- *2024.11*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by AAAI 2025!
-- *2024.05*: &nbsp;🎉	<font color=red>6 papers</font> are accepted by ACL 2024!
-- *2023.12*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICASSP 2024!
-- *2023.10*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by EMNLP 2023!
-- *2023.09*: &nbsp;👏	Serve as <font color=red>Area Chair</font> of ACL/EACL/NAACL ARR 2023!
-- *2023.09*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by NeurIPS 2023!
-- *2023.06*: &nbsp;🎉	Our cross-lingual aligned LLM [<font color=red>BayLing</font>](http://nlp.ict.ac.cn/bayling) is released.
-- *2023.05*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ACL 2023.
-- *2023.01*: &nbsp;🎉	<font color=red>1 paper</font> is accepted by ICLR 2023 (Spotlight)!
-- *2022.10*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by EMNLP 2022!
-- *2022.02*: &nbsp;🎉	<font color=red>3 papers</font> are accepted by ACL 2022!
+
+<div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
+<style>
+  /* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
+  div::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  div::-webkit-scrollbar-track {
+    background: #e9ecef;
+    border-radius: 4px;
+  }
+
+  div::-webkit-scrollbar-thumb {
+    background: #2c3e50;
+    border-radius: 4px;
+  }
+
+  div::-webkit-scrollbar-thumb:hover {
+    background: #1a252f;
+  }
+
+  /* 为 Firefox 设置滚动条样式 */
+  div {
+    scrollbar-width: thin;
+    scrollbar-color: #2c3e50 #e9ecef;
+  }
+</style>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.08:</em> 🎉 <font color=red><strong>I join the School of Information at Renmin University of China, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></li>
+  <li><em>2025.08:</em> 🎉 <font color=red>2 paper</font> was accepted by <strong>EMNLP 2025</strong>! Congrats to all collaborators!</li>
+  <li><em>2025.08:</em> 🎉 <font color=red><strong>I obtained my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences. I am deeply grateful to my advisor, Professor Yang Feng, and to all my collaborators during my doctoral studies!</strong></font></li>
+  <li><em>2025.05:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>ACL 2025</strong>! Congrats to all collaborators!</li>
+  <li><em>2025.05:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>IEEE/ACM TASLP</strong>! Congrats to all collaborators!</li>
+  <li><em>2025.01:</em> 🎉 <font color=red>2 papers</font> were accepted by <strong>ICLR 2025</strong>! Congrats to all collaborators!</li>
+  <li><em>2024.11:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>AAAI 2025</strong>! Congrats to all collaborators!</li>
+  <li><em>2024.10:</em> 👏 Serve as <font color=red><strong>Area Chair</strong></font> of <strong>ACL ARR 2024</strong>!</li>
+  <li><em>2024.05:</em> 🎉 <font color=red>6 papers</font> were accepted by <strong>ACL 2024</strong>! Congrats to all collaborators!</li>
+  <li><em>2023.12:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>ICASSP 2024</strong>! Congrats to all collaborators!</li>
+  <li><em>2023.10:</em> 🎉 <font color=red>2 papers</font> were accepted by <strong>EMNLP 2023</strong>! Congrats to all collaborators!</li>
+  <li><em>2023.09:</em> 👏 Serve as <font color=red><strong>Area Chair</strong></font> of <strong>ACL/EACL/NAACL ARR 2023</strong>!</li>
+  <li><em>2023.09:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>NeurIPS 2023</strong>! Congrats to all collaborators!</li>
+  <li><em>2023.06:</em> 🎉 Our cross-lingual aligned LLM <a href="http://nlp.ict.ac.cn/bayling"><font color=red><strong>BayLing</strong></font></a> was released.</li>
+  <li><em>2023.05:</em> 🎉 <font color=red>2 papers</font> were accepted by <strong>ACL 2023</strong>! Congrats to all collaborators!</li>
+  <li><em>2023.01:</em> 🎉 <font color=red>1 paper</font> was accepted by <strong>ICLR 2023 Spotlight</strong>! Congrats to all collaborators!</li>
+  <li><em>2022.10:</em> 🎉 <font color=red>3 papers</font> were accepted by <strong>EMNLP 2022</strong>! Congrats to all collaborators!</li>
+  <li><em>2022.02:</em> 🎉 <font color=red>3 papers</font> were accepted by <strong>ACL 2022</strong>! Congrats to all collaborators!</li>
+  <li><em>2021.08:</em> 🎉 <font color=red>2 papers</font> were accepted by <strong>EMNLP 2021</strong>! Congrats to all collaborators!</li>
+  <li><em>2021.05:</em> 🎉 <font color=red>Win the first place</font> of <strong>AutoSimTrans 2021</strong> (hosted by Huawei/Google/Baidu)!</li>
+  <li><em>2020.12:</em> 🎉 <font color=red>1 paper</font> were accepted by <strong>AAAI 2021</strong>! Congrats to all collaborators!</li>
+</ul>
+</div>
+
+<br/>
+
+
+
+
+
+
+
+
+
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multilingual LLM</div><img src='images/bayling.png' alt="sym" width="100%">
