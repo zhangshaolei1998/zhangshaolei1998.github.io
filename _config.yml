@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaolei Zhang"
-description              : "Shaolei Zhang"
+description              : "13718537922"
 repository               : "zhangshaolei1998/zhangshaolei1998.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shaolei Zhang"
   avatar           : "images/you.jpg"
-  bio              : "Ph.D. Candidate at Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
+  bio              : "Lecturer at the School of Information, Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=gWwAWo4AAAAJ&hl=zh-CN"
-  email            : "zhangshaolei20z@ict.ac.cn"
+  email            : "zhangshaolei98@ruc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
