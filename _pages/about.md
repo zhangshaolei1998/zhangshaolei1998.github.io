@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is a fifth-year Ph.D. candidate (2020-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
+**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an Assistant Professor at the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/) (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/). 
+
+He received his Ph.D. from [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/) in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班). 
 
 He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>largemultimodal models</font>*, and <font color=blue>simultaneous/streaming model</font>. He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
 - **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
@@ -28,7 +30,7 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 
-> I'm willing to communicate and share my research, and interested in **project/research collaborations** in the industry and academia. If you would like to connect with me, welcome to reach out via Email `zhangshaolei20z@ict.ac.cn` or WeChat `zhangshaolei0331`
+> I'm willing to communicate and share my research, and interested in **project/research collaborations** in the industry and academia. If you would like to connect with me, welcome to reach out via Email `zhangshaolei98@ruc.edu.cn` or WeChat `zhangshaolei0331`
 
 
 # 🔥 News

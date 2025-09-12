@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shaolei Zhang"
   avatar           : "images/you.jpg"
-  bio              : "Lecturer at the School of Information, Renmin University of China"
+  bio              : "Assistant Professor at the School of Information, Renmin University of China"
   location         : "Beijing, China"
-  employer         : 信息楼124B
+  employer         : 信息楼 124B
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=gWwAWo4AAAAJ&hl=zh-CN"
   email            : "zhangshaolei98@ruc.edu.cn"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/11/7954.html"
-  orcid            : "https://orcid.org/0000-0002-7254-9380"
+  orcid            : #"https://orcid.org/0000-0002-7254-9380"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
