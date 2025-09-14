@@ -22,7 +22,7 @@ redirect_from:
 
 # 🔎 Research
 
-He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>largemultimodal models</font>*, and <font color=blue>simultaneous/streaming model</font>. He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
+He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and <font color=blue>agentic systems</font>. He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
 - **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
 - **Multimodal Models**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
 - **Trustworthy LLMs**: [TruthX](https://arxiv.org/pdf/2402.17811) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX), [Auto-RAG](https://arxiv.org/pdf/2411.19443) [![](https://img.shields.io/github/stars/ictnlp/Auto-RAG?style=social&label=Code+Stars)](https://github.com/ictnlp/Auto-RAG)
@@ -31,7 +31,24 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 
-> I'm willing to communicate and share my research, and interested in **project/research collaborations** in the industry and academia. If you would like to connect with me, welcome to reach out via Email `zhangshaolei98@ruc.edu.cn` or WeChat `zhangshaolei0331`
+<div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
+  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">📌 欢迎本科生、研究生加入科研实习，一起做有价值的研究！</strong><br>
+长期面向优秀的本科生、研究生开放机会，从事大模型、智能体相关研究！加入后，你将获得系统的科研指导、高水平论文发表、与企业合作的实践机会，表现优秀者有机会获得人大保研名额。你不一定需要充分的科研基础，重要的是对科研的热情和积极性，欢迎通过<a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a>或<a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a>与我联系！
+  </p>
+</div>
+
+<div style="background: linear-gradient(135deg, #f0fff4, #e6f7ec); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #2e7d32; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
+  <p style="margin: 0; position: relative; z-index: 1;">
+    <strong style="color: red">🤝 欢迎工业界/学术界交流与合作！</strong><br>
+    非常乐意和社区分享我们最新的研究进展，欢迎在科研或项目上展开合作。如果您对我们的研究成果感兴趣，欢迎通过
+    <a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a> 或 
+    <a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a> 与我联系！
+  </p>
+</div>
+
+
 
 
 # 🔥 News
@@ -372,7 +389,7 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021/2023
 
 # 📖 Educations
-- *2020.06 - 2025.06*: Ph.D. Nature language processing. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
+- *2020.09 - 2025.06*: Ph.D. Nature language processing and Large Language Model. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
 - *2016.09 - 2020.06*: Bachelor's degree. Computer science and technology. [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/).
 
 # 💬 Invited Talks
