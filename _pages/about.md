@@ -31,22 +31,21 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 
-<div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
+<div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 10px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden; font-size: 14px; line-height: 1.6;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
-  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">📌 欢迎本科生、研究生加入科研实习，一起做有价值的研究！</strong><br>
-长期面向优秀的本科生、研究生开放机会，从事大模型、智能体相关研究！加入后，你将获得系统的科研指导、高水平论文发表、与企业合作的实践机会，表现优秀者有机会获得人大保研名额。你不一定需要充分的科研基础，重要的是对科研的热情和积极性，欢迎通过<a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a>或<a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a>与我联系！
+  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red; font-size: 18px;">📌 欢迎本科生、研究生加入科研实习，一起做有价值的研究！</strong><br>
+长期面向优秀的本科生、研究生开放机会，从事大模型、智能体相关研究！你将获得系统的科研指导、高水平论文发表、与企业合作的实践机会，表现优秀者有机会获得保研名额。你不一定需要大量科研基础，重要的是对科研的积极性，欢迎通过<a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a>或<a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a>与我联系！
   </p>
 </div>
 
-<div style="background: linear-gradient(135deg, #f0fff4, #e6f7ec); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #2e7d32; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
+<div style="background: linear-gradient(135deg, #f0fff4, #e6f7ec); padding: 10px; border-radius: 10px; margin: 20px 0; border: 2px solid #2e7d32; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden; font-size: 14px; line-height: 1.6;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
   <p style="margin: 0; position: relative; z-index: 1;">
-    <strong style="color: red">🤝 欢迎工业界/学术界交流与合作！</strong><br>
-    非常乐意和社区分享我们最新的研究进展，欢迎在科研或项目上展开合作。如果您对我们的研究成果感兴趣，欢迎通过
-    <a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a> 或 
-    <a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a> 与我联系！
+    <strong style="color: black; font-size: 18px;">🤝 欢迎工业界/学术界交流与合作！</strong><br>
+    非常乐意和社区分享我们最新的研究进展，在科研或项目上展开合作。如果您对我们的研究成果感兴趣，欢迎通过<a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a>或<a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a>与我联系！
   </p>
 </div>
+
 
 
 
