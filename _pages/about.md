@@ -23,8 +23,9 @@ redirect_from:
 # 🔎 Research
 
 He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and <font color=blue>agentic systems</font>. He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
+- **LLM for Data Science**: [DeepAnalyze](https://arxiv.org/pdf/2510.16872) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
-- **Multimodal Models**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
+- **Multimodal LLMs**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
 - **Trustworthy LLMs**: [TruthX](https://arxiv.org/pdf/2402.17811) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX), [Auto-RAG](https://arxiv.org/pdf/2411.19443) [![](https://img.shields.io/github/stars/ictnlp/Auto-RAG?style=social&label=Code+Stars)](https://github.com/ictnlp/Auto-RAG)
 
 Beyond his research, he won the first place in the streaming transcription track of AutoSimTrans 2021. He is actively engaged in sharing researches and insights at various academic events. He is serving as Area Chair of ACL ARR (*CCF-A Conference*) and Reviewer of Top AI/NLP conferences.
@@ -95,7 +96,8 @@ Beyond his research, he won the first place in the streaming transcription track
 </style>
 
 <ul class="timeline">
-  <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I join Renmin University of China as an Assistant Professor,, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></span></li>
+  <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>We release **DeepAnalyze**, the first agentic LLM for autonomous data science, supporting specific data task and data-oriented deep research!</strong></font></span></li>
+  <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I join Renmin University of China as an Assistant Professor, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=red>2 paper</font> was accepted by <strong>EMNLP 2025</strong>! Congrats to all collaborators!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I obtain my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences. I am deeply grateful to my advisor, Professor Yang Feng, and to all my collaborators during my PH.D. studies!</strong></font></span></li>
   <li><span class="date">2025.05</span><span class="content">🎉 <font color=red>1 paper</font> was accepted by <strong>ACL 2025</strong>! Congrats to all collaborators!</span></li>
@@ -129,7 +131,37 @@ Beyond his research, he won the first place in the streaming transcription track
 
 
 
-# 📝 Publications 
+# 📝 Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agentic LLM</div><img src='images/deepanalyze.jpg' alt="sym" width="100%">
+
+<details>
+<summary>Demo</summary>
+ <video src="images/deepanalyze.mp4" controls autoplay loop muted style="width: 100%;"></video>
+</details>
+
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872) \\
+**Shaolei Zhang**, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![homepage](https://img.shields.io/badge/%F0%9F%8C%90%20Homepage%20-DeepAnalyze%20Cases-blue.svg)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fruc-datalab%2FDeepAnalyze&label=Visitors&icon=graph-up&color=%23dc3545&message=&style=flat&tz=UTC) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze) 
+
+[![twitter](https://img.shields.io/badge/@Brian%20Roemmele-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/BrianRoemmele/status/1981015483823571352) [![twitter](https://img.shields.io/badge/@Dr%20Singularity-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Dr_Singularity/status/1981010771338498241) [![twitter](https://img.shields.io/badge/@Gorden%20Sun-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Gorden_Sun/status/1980573407386423408) [![twitter](https://img.shields.io/badge/@AIGCLINK-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/aigclink/status/1980554517126246642) [![twitter](https://img.shields.io/badge/@Python%20Developer-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Python_Dv/status/1980667557318377871)  [![twitter](https://img.shields.io/badge/@meng%20shao-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/shao__meng/status/1980623242114314531) 
+
+
+- **DeepAnalyze** is the first agentic LLM for autonomous data science. It can autonomously complete a wide range of data-centric tasks without human intervention, supporting:
+  - 🛠 **Entire data science pipeline**: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and report generation.
+  - 🔍 **Open-ended data research**: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
+- Get over <font color=red>500 reposts</font> and <font color=red>300K views</font> on [Twitter](https://x.com/search?q=DeepAnalyze)!
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multilingual LLM</div><img src='images/bayling.png' alt="sym" width="100%">
 
 <details>
@@ -220,7 +252,7 @@ Beyond his research, he won the first place in the streaming transcription track
 
 - StreamSpeech is an <font color=red>"All in One" seamless model</font> for over 8 tasks of offline and simultaneous speech recognition, speech translation and speech synthesis.
 - StreamSpeech can present intermediate results (i.e., ASR or translation results) during simultaneous translation, offering a more comprehensive <font color=blue>low-latency communication experience</font> .
-- Get over <font color=red>500 reposts</font> and <font color=red>300K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
+- Get over <font color=red>500 reposts</font> and <font color=red>500K views</font> on [Twitter](https://x.com/search?q=StreamSpeech)!
 </div>
 </div>
 
@@ -265,6 +297,9 @@ Beyond his research, he won the first place in the streaming transcription track
 </div>
 
 ## 2025
+
+- [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968). &nbsp; Preprint 2025.<br>
+**Shaolei Zhang**, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du &nbsp; <br>[![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ruc-datalab/DeepAnalyze) [![homepage](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K)
 
 - [Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642). &nbsp; Preprint 2025.<br>
 **Shaolei Zhang**, Shoutao Guo, Qingkai Fang, Yan Zhou, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2506.13642) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Stream-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/stream-omni-8b)<br>
