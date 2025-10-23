@@ -96,7 +96,7 @@ Beyond his research, he won the first place in the streaming transcription track
 </style>
 
 <ul class="timeline">
-  <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>We release **DeepAnalyze**, the first agentic LLM for autonomous data science, supporting specific data task and data-oriented deep research!</strong></font></span></li>
+  <li><span class="date">2025.08</span><span class="content">🎉 We release <a href="https://github.com/ruc-datalab/DeepAnalyze"><font color=blue><strong>DeepAnalyze</strong></font>, the first agentic LLM for autonomous data science, supporting specific data task and data-oriented deep research!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I join Renmin University of China as an Assistant Professor, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=red>2 paper</font> was accepted by <strong>EMNLP 2025</strong>! Congrats to all collaborators!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I obtain my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences. I am deeply grateful to my advisor, Professor Yang Feng, and to all my collaborators during my PH.D. studies!</strong></font></span></li>
@@ -153,9 +153,9 @@ Beyond his research, he won the first place in the streaming transcription track
 [![twitter](https://img.shields.io/badge/@Brian%20Roemmele-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/BrianRoemmele/status/1981015483823571352) [![twitter](https://img.shields.io/badge/@Dr%20Singularity-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Dr_Singularity/status/1981010771338498241) [![twitter](https://img.shields.io/badge/@Gorden%20Sun-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Gorden_Sun/status/1980573407386423408) [![twitter](https://img.shields.io/badge/@AIGCLINK-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/aigclink/status/1980554517126246642) [![twitter](https://img.shields.io/badge/@Python%20Developer-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Python_Dv/status/1980667557318377871)  [![twitter](https://img.shields.io/badge/@meng%20shao-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/shao__meng/status/1980623242114314531) 
 
 
-- **DeepAnalyze** is the first agentic LLM for autonomous data science. It can autonomously complete a wide range of data-centric tasks without human intervention, supporting:
-  - 🛠 **Entire data science pipeline**: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and report generation.
-  - 🔍 **Open-ended data research**: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
+- **DeepAnalyze** is the <font color=red>first agentic LLM for autonomous data science</font> . It can autonomously complete a wide range of data-centric tasks without human intervention, supporting:
+  - 🛠 <font color=blue>**Entire data science pipeline**</font>: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and report generation.
+  - 🔍 <font color=blue>**Open-ended data research**</font>: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
 - Get over <font color=red>500 reposts</font> and <font color=red>300K views</font> on [Twitter](https://x.com/search?q=DeepAnalyze)!
 
 </div>
