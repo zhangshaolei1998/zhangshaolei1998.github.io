@@ -298,7 +298,7 @@ Beyond his research, he won the first place in the streaming transcription track
 
 ## 2025
 
-- [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968). &nbsp; Preprint 2025.<br>
+- [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872). &nbsp; Preprint 2025.<br>
 **Shaolei Zhang**, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du &nbsp; <br>[![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ruc-datalab/DeepAnalyze) [![homepage](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K)
 
 - [Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642). &nbsp; Preprint 2025.<br>
