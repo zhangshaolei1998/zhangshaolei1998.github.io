@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an Assistant Professor at the [School of Information](http://info.ruc.edu.cn/){:style="text-decoration:none;"}, [Renmin University of China](https://www.ruc.edu.cn/){:style="text-decoration:none;"} (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/){:style="text-decoration:none;"}. He received his Ph.D. degree from [Institute of Computing Technology](https://www.cas.cn/){:style="text-decoration:none;"}, [Chinese Academy of Sciences](https://www.cas.cn/){:style="text-decoration:none;"} (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en){:style="text-decoration:none;"}. He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/){:style="text-decoration:none;"} in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班).
+**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an **Assistant Professor** at the [School of Information](http://info.ruc.edu.cn/){:style="text-decoration:none;"}, [Renmin University of China](https://www.ruc.edu.cn/){:style="text-decoration:none;"} (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/){:style="text-decoration:none;"}. He received his Ph.D. degree from [Institute of Computing Technology](https://www.cas.cn/){:style="text-decoration:none;"}, [Chinese Academy of Sciences](https://www.cas.cn/){:style="text-decoration:none;"} (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en){:style="text-decoration:none;"}. He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/){:style="text-decoration:none;"} in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班).
 
 
 # 🔎 Research
@@ -34,7 +34,7 @@ Beyond his research, he won the first place in the streaming transcription track
 
 <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 10px; border-radius: 10px; margin: 10px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden; font-size: 14px; line-height: 1.6;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
-  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red; font-size: 15px;">📌 欢迎本科生、研究生加入科研实习，一起做有价值的研究！</strong><br>
+  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red; font-size: 15px;">📌 欢迎本科生、研究生加入科研实习(可远程)，一起做有价值的研究！</strong><br>
 长期招募优秀的本科生、研究生，从事大模型、智能体相关研究！你将获得系统的科研指导、高水平论文发表、与企业合作的实践机会，表现优秀者有机会获得人大保研名额。你不一定需要大量科研基础，重要的是对科研的积极性，欢迎通过<a href="mailto:zhangshaolei@ruc.edu.cn">邮件</a>或<a href="https://zhangshaolei1998.github.io/images/wechat.jpg">微信</a>与我联系！
   </p>
 </div>
@@ -150,12 +150,14 @@ Beyond his research, he won the first place in the streaming transcription track
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![homepage](https://img.shields.io/badge/%F0%9F%8C%90%20Homepage%20-DeepAnalyze%20Cases-blue.svg)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fruc-datalab%2FDeepAnalyze&label=Visitors&icon=graph-up&color=%23dc3545&message=&style=flat&tz=UTC) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze) 
 
+
+[![zhihu](https://img.shields.io/badge/WeChat-@中国人民大学信息学院-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/Q7qt-iZ0GjBZ1RTF_MPurA)  [![zhihu](https://img.shields.io/badge/WeChat-@机器之心-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/3PObdzM7d8gaQcoVpZbLHg) 
 [![twitter](https://img.shields.io/badge/@Brian%20Roemmele-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/BrianRoemmele/status/1981015483823571352) [![twitter](https://img.shields.io/badge/@Dr%20Singularity-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Dr_Singularity/status/1981010771338498241) [![twitter](https://img.shields.io/badge/@Gorden%20Sun-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Gorden_Sun/status/1980573407386423408) [![twitter](https://img.shields.io/badge/@AIGCLINK-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/aigclink/status/1980554517126246642) [![twitter](https://img.shields.io/badge/@Python%20Developer-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Python_Dv/status/1980667557318377871)  [![twitter](https://img.shields.io/badge/@meng%20shao-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/shao__meng/status/1980623242114314531) 
 
 
 - **DeepAnalyze** is the <font color=red>first agentic LLM for autonomous data science</font> . It can autonomously complete a wide range of data-centric tasks without human intervention, supporting:
-  - 🛠 <font color=blue>**Entire data science pipeline**</font>: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and report generation.
-  - 🔍 <font color=blue>**Open-ended data research**</font>: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
+  - 🛠 **<font color=blue>Entire data science pipeline</font>**: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and data insight.
+  - 🔍 **<font color=blue>Open-ended data research</font>**: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
 - Get over <font color=red>500 reposts</font> and <font color=red>300K views</font> on [Twitter](https://x.com/search?q=DeepAnalyze)!
 
 </div>
