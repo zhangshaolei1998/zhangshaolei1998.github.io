@@ -25,7 +25,7 @@ redirect_from:
 He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and *<font color=blue>agentic systems</font>*.
 
 <p align="center" width="100%">
-<img src="images/research.png" alt="overview" style="width: 60%; min-width: 300px; display: block; margin: auto;">
+<img src="images/research.jpg" alt="overview" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
@@ -312,22 +312,22 @@ Beyond his research, he won the first place in the streaming transcription track
 - [Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642). &nbsp; Preprint 2025.<br>
 **Shaolei Zhang**, Shoutao Guo, Qingkai Fang, Yan Zhou, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2506.13642) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Stream-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/stream-omni-8b)<br>
 
-- [A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://arxiv.org/pdf/2510.23587). &nbsp; EMNLP 2025.<br>
+- [A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://arxiv.org/pdf/2510.23587). &nbsp; Preprint 2025.<br>
 Yizhang Zhu, Liangwei Wang, Chenyu Yang, Xiaotian Lin, Boyan Li, Wei Zhou, Xinyu Liu, Zhangyang Peng, Tianqi Luo, Yu Li, Chengliang Chai, Chong Chen, Shimin Di, Ju Fan, Ji Sun, Nan Tang, Fugee Tsung, Jiannan Wang, Chenglin Wu, Yanwei Xu, **Shaolei Zhang**, Yong Zhang, Xuanhe Zhou, Guoliang Li, Yuyu Luo  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2510.23587) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/HKUSTDial/awesome-data-agents)<br>
 
-- [IG-Pruning: Input-Guided Block Pruning for Large Language Models](https://aclanthology.org/2025.emnlp-main.537.pdf). &nbsp; EMNLP 2025.<br>
+- [IG-Pruning: Input-Guided Block Pruning for Large Language Models](https://aclanthology.org/2025.emnlp-main.537.pdf). &nbsp; EMNLP 2025 (<font color=red>CCF-B</font>).<br>
 Kangyu Qiao, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2025-b31b1b.svg?style=plastic)](https://aclanthology.org/2025.emnlp-main.537.pdf) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/IG-Pruning)<br>
 
-- [AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment](https://aclanthology.org/2025.emnlp-main.328.pdf). &nbsp; EMNLP 2025.<br>
+- [AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment](https://aclanthology.org/2025.emnlp-main.328.pdf). &nbsp; EMNLP 2025 (<font color=red>CCF-B</font>).<br>
 Mengyu Bu, **Shaolei Zhang**, Zhongjun He, Hua Wu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_EMNLP_2025-b31b1b.svg?style=plastic)](https://aclanthology.org/2025.emnlp-main.328.pdf) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/AlignX)<br>
 
 - [TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes](https://arxiv.org/pdf/2505.11270). &nbsp; Preprint 2025.<br>
 Mengyu Bu, **Shaolei Zhang**, Zhongjun He, Hua Wu, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2505.11270)<br>
 
-- [FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing](https://arxiv.org/pdf/2507.14815). &nbsp; NeurIPS 2025.<br>
+- [FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing](https://arxiv.org/pdf/2507.14815). &nbsp; NeurIPS 2025 (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Qingkai Fang, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_NeurIPS_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2507.14815) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/FastLongSpeech)<br>
 
-- [LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis](https://arxiv.org/abs/2505.02625). &nbsp; ACL 2025. (<font color=red>CCF-A</font>).<br>
+- [LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis](https://arxiv.org/abs/2505.02625). &nbsp; ACL 2025 (<font color=red>CCF-A</font>).<br>
 Qingkai Fang, Yan Zhou, Shoutao Guo, **Shaolei Zhang**, Yang Feng &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2505.02625) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni2) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/collections/ICTNLP/llama-omni-67fdfb852c60470175e36e9c)<br>
 
 - [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). &nbsp; ICLR 2025.<br>
@@ -336,10 +336,10 @@ Qingkai Fang, Yan Zhou, Shoutao Guo, **Shaolei Zhang**, Yang Feng &nbsp; <br>[![
 - [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666). &nbsp; ICLR 2025.<br>
 Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ICLR_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2409.06666) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LLaMA-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/Llama-3.1-8B-Omni) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://iclr.cc/virtual/2025/poster/29748)<br>
 
-- [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025. (<font color=red>CCF-A</font>).<br>
+- [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/pdf/2501.00868). &nbsp; AAAI 2025 (<font color=red>CCF-A</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_AAAI_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2501.00868) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/LSG)<br>
 
-- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; TASLP 2025. (<font color=red>CCF-B</font>).<br>
+- [Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models](https://arxiv.org/pdf/2406.06910). &nbsp; TASLP 2025 (<font color=red>CCF-B</font>).<br>
 Shoutao Guo, **Shaolei Zhang**, Zhengrui Ma, Min Zhang, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_TASLP_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2406.06910) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/SiLLM)<br>
 
 
