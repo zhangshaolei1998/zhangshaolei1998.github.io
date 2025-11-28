@@ -22,7 +22,11 @@ redirect_from:
 
 # 🔎 Research
 
-He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and <font color=blue>agentic systems</font>. He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
+He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and *<font color=blue>agentic systems</font>*.
+
+<img src='images/research.pdf' alt="sym" width="60%">
+
+He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
 - **LLM for Data Science**: [DeepAnalyze](https://arxiv.org/pdf/2510.16872) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
 - **Multimodal LLMs**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
