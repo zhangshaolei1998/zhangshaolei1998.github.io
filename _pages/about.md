@@ -24,7 +24,7 @@ redirect_from:
 
 He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and *<font color=blue>agentic systems</font>*.
 
-<img src='images/research.pdf' alt="sym" width="60%">
+<img src='images/research.png' alt="research overview" width="60%">
 
 He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
 - **LLM for Data Science**: [DeepAnalyze](https://arxiv.org/pdf/2510.16872) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
