@@ -29,13 +29,108 @@ He is dedicated to **<font color=red>developing next-generation intelligent syst
 <img src="images/research.jpg" alt="overview" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, ICML. His open-source projects have received over **10,000 stars** on GitHub, and LLMs have been downloaded more than **100,000 times** on HuggingFace. Some of his representative works include:
-- **LLM for Data Science**: [DeepAnalyze](https://arxiv.org/pdf/2510.16872) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
-- **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
-- **Multimodal LLMs**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
-- **Trustworthy LLMs**: [TruthX](https://arxiv.org/pdf/2402.17811) [![](https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Code+Stars)](https://github.com/ictnlp/TruthX), [Auto-RAG](https://arxiv.org/pdf/2411.19443) [![](https://img.shields.io/github/stars/ictnlp/Auto-RAG?style=social&label=Code+Stars)](https://github.com/ictnlp/Auto-RAG)
+He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, ICML. His open-source projects have received over **10,000 stars** on GitHub, and LLMs have been downloaded more than **100,000 times** on HuggingFace. He won the first place in AutoSimTrans 2021. He is serving as Area Chair of ACL ARR (*CCF-A Conference*) and Reviewer of Top AI/NLP conferences.
 
-Beyond his research, he won the first place in the streaming transcription track of AutoSimTrans 2021. He is actively engaged in sharing researches and insights at various academic events. He is serving as Area Chair of ACL ARR (*CCF-A Conference*) and Reviewer of Top AI/NLP conferences.
+Some of his representative works include:
+
+<style>
+.proj-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 10px 0;
+}
+.proj-card {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 10px;
+  padding: 14px 16px;
+  width: 180px;
+  text-align: center;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+.proj-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  border-color: #ccc;
+}
+.proj-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 8px;
+  letter-spacing: 0.3px;
+}
+.proj-name {
+  font-size: 16px;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 4px;
+  margin-top: 6px;
+  line-height: 1.3;
+}
+.proj-card:hover .proj-name { color: #1976d2; }
+.proj-stars { margin-bottom: 6px; }
+</style>
+
+<div class="proj-grid">
+
+<a href="https://github.com/ruc-datalab/DeepAnalyze" target="_blank" class="proj-card">
+<div class="proj-name">DeepAnalyze</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#1976d2;">LLM for Data Science</div>
+</a>
+
+<a href="https://github.com/ictnlp/BayLing" target="_blank" class="proj-card">
+<div class="proj-name">BayLing</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#2e7d32;">Multilingual LLM</div>
+</a>
+
+<a href="https://github.com/ictnlp/StreamSpeech" target="_blank" class="proj-card">
+<div class="proj-name">StreamSpeech</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#7b1fa2;">Multimodal LLM</div>
+</a>
+
+<a href="https://github.com/ictnlp/Stream-Omni" target="_blank" class="proj-card">
+<div class="proj-name">Stream-Omni</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#7b1fa2;">Multimodal LLM</div>
+</a>
+
+<a href="https://github.com/ictnlp/LLaMA-Omni" target="_blank" class="proj-card">
+<div class="proj-name">LLaMA-Omni</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#7b1fa2;">Multimodal LLM</div>
+</a>
+
+<a href="https://github.com/ictnlp/LLaVA-Mini" target="_blank" class="proj-card">
+<div class="proj-name">LLaVA-Mini</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#7b1fa2;">Multimodal LLM</div>
+</a>
+
+<a href="https://github.com/ictnlp/TruthX" target="_blank" class="proj-card">
+<div class="proj-name">TruthX</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/TruthX?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#e65100;">LLM Hallucination</div>
+</a>
+
+<a href="https://github.com/ictnlp/Auto-RAG" target="_blank" class="proj-card">
+<div class="proj-name">Auto-RAG</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/ictnlp/Auto-RAG?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#00838f;">LLM Tool-use</div>
+</a>
+
+</div>
 
 
 
@@ -581,7 +676,7 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <div class="c-name">Ju Fan</div><div class="c-aff">RUC</div></a>
 
 <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm" target="_blank" class="collab-card">
-<img src="https://news.eol.cn/xueshu/hui/202206/W020220620392105041019.jpg" onerror="cf(this,'Xiaoyong Du')" alt="Xiaoyong Du">
+<img src="https://ccf.org.cn/cmsFileManager//column/88DD951747FC552AA847AAE9349DA22E.jpg" onerror="cf(this,'Xiaoyong Du')" alt="Xiaoyong Du">
 <div class="c-name">Xiaoyong Du</div><div class="c-aff">RUC</div></a>
 
 <a href="http://vipl.ict.ac.cn/people/xlchen/" target="_blank" class="collab-card">
