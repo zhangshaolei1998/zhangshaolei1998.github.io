@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an **Assistant Professor** at the [School of Information](http://info.ruc.edu.cn/){:style="text-decoration:none;"}, [Renmin University of China](https://www.ruc.edu.cn/){:style="text-decoration:none;"} (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/){:style="text-decoration:none;"}. He received his Ph.D. degree from [Institute of Computing Technology](https://www.cas.cn/){:style="text-decoration:none;"}, [Chinese Academy of Sciences](https://www.cas.cn/){:style="text-decoration:none;"} (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en){:style="text-decoration:none;"}. He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/){:style="text-decoration:none;"} in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班).
+**<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an **Assistant Professor** at the [School of Information](http://info.ruc.edu.cn/){:style="text-decoration:none;"}, [Renmin University of China](https://www.ruc.edu.cn/){:style="text-decoration:none;"} (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/){:style="text-decoration:none;"} and Professor [Xiaoyong Du (杜小勇)](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm){:style="text-decoration:none;"}. He received his Ph.D. degree from [Institute of Computing Technology](https://www.cas.cn/){:style="text-decoration:none;"}, [Chinese Academy of Sciences](https://www.cas.cn/){:style="text-decoration:none;"} (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en){:style="text-decoration:none;"}. He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/){:style="text-decoration:none;"} in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班).
 
  **<font color=red>课题组长期招收保研同学（硕士生/博士生）、本科实习生，欢迎邮件联系！</font>**
 
 # 🔎 Research
 
-He is dedicated to **<font color=red>developing next-generation human-computer interaction paradigms that are seamless, real-time, and secure</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and *<font color=blue>agentic systems</font>*.
+He is dedicated to **<font color=red>developing next-generation intelligent systems that enable the co-evolution of DATA and AI (AI ↔ Data).</font>**. To this end, his research interests include *<font color=blue>large language models</font>*, and *<font color=blue>large multimodal models</font>*, and *<font color=blue>agentic systems</font>*.
 
 <p align="center" width="100%">
 <img src="images/research.jpg" alt="overview" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI. Some of his representative works include:
+He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, ICML. His open-source projects have received over **10,000 stars** on GitHub, and LLMs have been downloaded more than **100,000 times** on HuggingFace. Some of his representative works include:
 - **LLM for Data Science**: [DeepAnalyze](https://arxiv.org/pdf/2510.16872) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - **Multilingual LLMs**: [BayLing](https://arxiv.org/pdf/2306.10968), [BayLing2](https://arxiv.org/pdf/2411.16300) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ictnlp/BayLing), [BayLing-Translate](https://nlp.ict.ac.cn/xsdt/202405/t20240517_221240.html)
 - **Multimodal LLMs**: [StreamSpeech](https://arxiv.org/pdf/2406.03049) [![](https://img.shields.io/github/stars/ictnlp/StreamSpeech?style=social&label=Code+Stars)](https://github.com/ictnlp/StreamSpeech), [Stream-Omni](https://arxiv.org/pdf/2506.13642) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni), [LLaMA-Omni](https://arxiv.org/pdf/2409.06666) [![](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaMA-Omni), [LLaVA-Mini](https://arxiv.org/pdf/2501.03895) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini)
@@ -460,12 +460,12 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - [2017]	National Scholarship (国家奖学金)
 
 # 👏 Services
-- **Area Chair** of ACL/EACL/NAACL ARR (from 2023 to now)
+- **Area Chair** of ACL ARR (from 2023 to now)
 - **Reviewer** of ACL/EMNLP/COLING/NAACL/EACL/NeurIPS/ICLR/ICML, Computing Survey
 - **Session Chair** of Student Seminar in [CCL 2024](http://cips-cl.org/static/CCL2024/index.html)
 - **Session Chair** of Student Seminar in [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html)
 - 中国中文信息学会青年工作委员会 **学生执委会主任** 2020-2024
-- **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021/2023
+- **Programming Chair** of [CSSNLP](https://conference.cipsc.org.cn/cssnlp/) 2020/2021/2024
 
 # 📖 Educations
 - *2020.09 - 2025.06*: Ph.D. Nature language processing and Large Language Model. [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/).
