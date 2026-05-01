@@ -164,10 +164,10 @@ Beyond his research, he won the first place in the streaming transcription track
 [![twitter](https://img.shields.io/badge/@Brian%20Roemmele-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/BrianRoemmele/status/1981015483823571352) [![twitter](https://img.shields.io/badge/@Dr%20Singularity-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Dr_Singularity/status/1981010771338498241) [![twitter](https://img.shields.io/badge/@Gorden%20Sun-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Gorden_Sun/status/1980573407386423408) [![twitter](https://img.shields.io/badge/@AIGCLINK-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/aigclink/status/1980554517126246642) [![twitter](https://img.shields.io/badge/@Python%20Developer-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/Python_Dv/status/1980667557318377871)  [![twitter](https://img.shields.io/badge/@meng%20shao-gray?logo=x&logoColor=white&labelColor=black)](https://x.com/shao__meng/status/1980623242114314531) 
 
 
-- **DeepAnalyze** is the <font color=red>first agentic LLM for autonomous data science</font> . It can autonomously complete a wide range of data-centric tasks without human intervention, supporting:
+- **DeepAnalyze** is the <font color=red>first agentic LLM for autonomous data science</font>, supporting:
   - 🛠 **<font color=blue>Entire data science pipeline</font>**: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and data insight.
   - 🔍 **<font color=blue>Open-ended data research</font>**: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
-- Get over <font color=red>500 reposts</font> and <font color=red>300K views</font> on [Twitter](https://x.com/search?q=DeepAnalyze)!
+- Get over <font color=red>500 reposts</font> and <font color=red>500K views</font> on [Twitter](https://x.com/search?q=DeepAnalyze)!
 
 </div>
 </div>
@@ -214,7 +214,7 @@ Beyond his research, he won the first place in the streaming transcription track
 [![arXiv](https://img.shields.io/badge/Paper-Preprint_2025-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2506.13642) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-stream--omni--8b-blue.svg)](https://huggingface.co/ICTNLP/stream-omni-8b) [![data](https://img.shields.io/badge/%F0%9F%93%91%20Datasets%20-InstructOmni-green.svg)](https://huggingface.co/datasets/ICTNLP/InstructOmni) [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStream-Omni&label=Visitors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/Stream-Omni) [![](https://img.shields.io/github/stars/ictnlp/Stream-Omni?style=social&label=Code+Stars)](https://github.com/ictnlp/Stream-Omni) [![zhihu](https://img.shields.io/badge/WeChat-@语音之家-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/x41V_PrN_I8IlhxMOAeiJw) 
 
 - Stream-Omni is a <font color=red>GPT-4o-like language-vision-speech chatbot</font> that simultaneously supports interaction across various modality combinations.
-- Stream-Omni can simultaneously output <font color=blue>intermediate textual results (e.g., ASR transcriptions and model responses)</font> during speech interactions, like the advanced voice service of GPT-4o.
+- Stream-Omni can simultaneously output <font color=blue>intermediate textual results (e.g., ASR transcriptions and model responses)</font> during speech interactions.
 </div>
 </div>
 
@@ -313,17 +313,23 @@ Beyond his research, he won the first place in the streaming transcription track
 **Shaolei Zhang**, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du &nbsp; <br>[![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ruc-datalab/DeepAnalyze) [![homepage](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K)
 
 - CoDA-Bench: Can Code Agents Handle Data-Intensive Tasks?. &nbsp; ICML 2026.<br>
-Yuxin Zhang, Ju Fan, Meihao Fan, **Shaolei Zhang†**, Xiaoyong Du &nbsp; <br>*To be open-sourced soon*<br>
+Yuxin Zhang, Ju Fan, Meihao Fan, **Shaolei Zhang<sup>†</sup>**, Xiaoyong Du &nbsp; <br>*To be open-sourced soon*<br>
 
 - DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving. &nbsp; ACL 2026 (<font color=red>CCF-A</font>).<br>
-Chao Deng★, **Shaolei Zhang★**, Ju Fan, Xiaoyong Du  &nbsp; <br>*To be open-sourced soon*<br>
+Chao Deng<sup>*</sup>, **Shaolei Zhang<sup>*</sup>**, Ju Fan, Xiaoyong Du  &nbsp; <br>*To be open-sourced soon*<br>
 
 - [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://arxiv.org/pdf/2601.06789). &nbsp; ACL 2026 findings (<font color=red>CCF-A</font>).<br>
-Qihao Wang, Ziming Cheng, Shuo Zhang, Fan Liu, Rui Xu, Heng Lian, Kunyi Wang, Xiaomin Yu, Jianghao Yin, Sen Hu, Yue Hu, **Shaolei Zhang†**, Yanbing Liu†, Ronghao Chen†, Huacan Wang† &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.06789) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/QuantaAlpha/MemGovern) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-
+Qihao Wang, Ziming Cheng, Shuo Zhang, Fan Liu, Rui Xu, Heng Lian, Kunyi Wang, Xiaomin Yu, Jianghao Yin, Sen Hu, Yue Hu, **Shaolei Zhang<sup>†</sup>**, Yanbing Liu<sup>†</sup>, Ronghao Chen<sup>†</sup>, Huacan Wang<sup>†</sup> &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.06789) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/QuantaAlpha/MemGovern) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-
 Memgovern-darkgreen.svg)](https://huggingface.co/datasets/jimson991/Memgovern)<br>
 
 - [RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction](https://arxiv.org/pdf/2601.06966). &nbsp; ACL 2026 findings (<font color=red>CCF-A</font>).<br>
 Haonan Bian, Zhiyuan Yao, Sen Hu, Zishan Xu, **Shaolei Zhang**, Yifu Guo, Ziliang Yang, Xueran Han, Huacan Wang, Ronghao Chen &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.06966) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/AvatarMemory/RealMemBench)<br>
+
+- [DeepPrep: An LLM-Powered Agentic System for Autonomous Data Preparation](https://arxiv.org/pdf/2602.07371). &nbsp; Preprint 2026.<br>
+Meihao Fan, Ju Fan, Yuxin Zhang, **Shaolei Zhang**, Xiaoyong Du, Jie Song, Peng Li, Fuxin Jiang, Tieying Zhang, Jianjun Chen &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2602.07371)<br>
+
+- [Controlled Self-Evolution for Algorithmic Code Optimization](https://arxiv.org/pdf/2601.07348). &nbsp; Preprint 2026.<br>
+Tu Hu, Ronghao Chen, Shuo Zhang, Jianghao Yin, Mou Xiao Feng, Jingping Liu, **Shaolei Zhang**, Wenqi Jiang, Yuqi Fang, Sen Hu, Huacan Wang, Yi Xu &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.07348)<br>
 
 - [MiMo-V2-Flash Technical Report](https://arxiv.org/abs/2601.02780). &nbsp; Preprint 2026 (<font color=red>CCF-A</font>).<br>
 Xiaomi LLM-Core Team &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2026-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2601.02780) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/xiaomimimo/MiMo-V2-Flash)<br>
@@ -566,7 +572,7 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <div class="c-name">Ju Fan</div><div class="c-aff">RUC</div></a>
 
 <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm" target="_blank" class="collab-card">
-<img src="http://info.ruc.edu.cn/images/2022-04/85a44cd5a6df4758a4e484a63a481687.jpg" onerror="cf(this,'Xiaoyong Du')" alt="Xiaoyong Du">
+<img src="https://news.eol.cn/xueshu/hui/202206/W020220620392105041019.jpg" onerror="cf(this,'Xiaoyong Du')" alt="Xiaoyong Du">
 <div class="c-name">Xiaoyong Du</div><div class="c-aff">RUC</div></a>
 
 <a href="http://vipl.ict.ac.cn/people/xlchen/" target="_blank" class="collab-card">
@@ -609,6 +615,14 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hTEZzf4AAAAJ&citpid=2" onerror="cf(this,'Xuanhe Zhou')" alt="Xuanhe Zhou">
 <div class="c-name">Xuanhe Zhou</div><div class="c-aff">SJTU</div></a>
 
+
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Xiaodong+Liu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Xiaodong Liu">
+<div class="c-name">Xiaodong Liu</div><div class="c-aff">ICT, CAS</div></div>
+
+<a href="https://scholar.google.com/citations?user=ye4BnicAAAAJ" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ye4BnicAAAAJ&citpid=2" onerror="cf(this,'Ji Sun')" alt="Ji Sun">
+<div class="c-name">Ji Sun</div><div class="c-aff">Tsinghua</div></a>
 </div>
 
 <div class="collab-label">Industry & Students</div>
@@ -619,7 +633,7 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <div class="c-name">Qingkai Fang</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://scholar.google.com/citations?user=XwHtPyAAAAAJ" target="_blank" class="collab-card">
-<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XwHtPyAAAAAJ&citpid=2" onerror="cf(this,'Shoutao Guo')" alt="Shoutao Guo">
+<img src="https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/W020230604822423199962_ORIGIN.jpg" onerror="cf(this,'Shoutao Guo')" alt="Shoutao Guo">
 <div class="c-name">Shoutao Guo</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://scholar.google.com/citations?user=dUgq6tEAAAAJ" target="_blank" class="collab-card">
@@ -631,7 +645,7 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <div class="c-name">Yan Zhou</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://tianyu0313.github.io/" target="_blank" class="collab-card">
-<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hboKz7EAAAAJ&citpid=2" onerror="cf(this,'Tian Yu')" alt="Tian Yu">
+<img src="https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202310/W020231004592128521832_ORIGIN.jpg" onerror="cf(this,'Tian Yu')" alt="Tian Yu">
 <div class="c-name">Tian Yu</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://bingo123122121.github.io/" target="_blank" class="collab-card">
@@ -651,10 +665,6 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <div class="c-name">Zhe Yang</div><div class="c-aff">ICT, CAS</div></div>
 
 <div class="collab-card" style="cursor:default">
-<img src="https://ui-avatars.com/api/?name=Xiaodong+Liu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Xiaodong Liu">
-<div class="c-name">Xiaodong Liu</div><div class="c-aff">ICT, CAS</div></div>
-
-<div class="collab-card" style="cursor:default">
 <img src="https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/W020230604840808044025_ORIGIN.jpg" onerror="cf(this,'Zhuocheng Zhang')" alt="Zhuocheng Zhang">
 <div class="c-name">Zhuocheng Zhang</div><div class="c-aff">ICT, CAS</div></div>
 
@@ -662,9 +672,9 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Mt9xdjYAAAAJ&citpid=2" onerror="cf(this,'Langlin Huang')" alt="Langlin Huang">
 <div class="c-name">Langlin Huang</div><div class="c-aff">WashU</div></a>
 
-<div class="collab-card" style="cursor:default">
-<img src="https://ui-avatars.com/api/?name=Shangtong+Gui&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Shangtong Gui">
-<div class="c-name">Shangtong Gui</div><div class="c-aff">ICT, CAS</div></div>
+<a href="https://scholar.google.com/citations?user=OZ0ZTxUAAAAJ&hl=en" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OZ0ZTxUAAAAJ&citpid=2" onerror="cf(this,'Shangtong Gui')" alt="Shangtong Gui">
+<div class="c-name">Shangtong Gui</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://scholar.google.com/citations?user=9RTm2qoAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9RTm2qoAAAAJ&citpid=2" onerror="cf(this,'Meihao Fan')" alt="Meihao Fan">
@@ -674,9 +684,9 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <img src="https://ui-avatars.com/api/?name=Chao+Deng&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Chao Deng">
 <div class="c-name">Chao Deng</div><div class="c-aff">RUC</div></div>
 
-<div class="collab-card" style="cursor:default">
-<img src="https://ui-avatars.com/api/?name=Yuxin+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yuxin Zhang">
-<div class="c-name">Yuxin Zhang</div><div class="c-aff">RUC</div></div>
+<a href="https://scholar.google.com/citations?user=BR5VB4YAAAAJ&hl=en" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BR5VB4YAAAAJ&citpid=2" onerror="cf(this,'Yuxin Zhang')" alt="Yuxin Zhang">
+<div class="c-name">Yuxin Zhang</div><div class="c-aff">RUC</div></a>
 
 <a href="https://scholar.google.com/citations?user=6BsNnDQAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6BsNnDQAAAAJ&citpid=2" onerror="cf(this,'Chao Zhang')" alt="Chao Zhang">
@@ -685,10 +695,6 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <a href="https://scholar.google.com/citations?user=UxGRVk8AAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UxGRVk8AAAAJ&citpid=2" onerror="cf(this,'Sen Hu')" alt="Sen Hu">
 <div class="c-name">Sen Hu</div><div class="c-aff">PKU</div></a>
-
-<a href="https://scholar.google.com/citations?user=ye4BnicAAAAJ" target="_blank" class="collab-card">
-<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ye4BnicAAAAJ&citpid=2" onerror="cf(this,'Ji Sun')" alt="Ji Sun">
-<div class="c-name">Ji Sun</div><div class="c-aff">Tsinghua</div></a>
 
 <a href="https://zhongjunhe.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=a-1wSFYAAAAJ&citpid=2" onerror="cf(this,'Zhongjun He')" alt="Zhongjun He">
