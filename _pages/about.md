@@ -85,7 +85,7 @@ Some of his representative works include:
 <a href="https://github.com/ruc-datalab/DeepAnalyze" target="_blank" class="proj-card">
 <div class="proj-name">DeepAnalyze</div>
 <div class="proj-stars"><img src="https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Stars" alt="stars"></div>
-<div class="proj-tag" style="background:#1976d2;">LLM for Data Science</div>
+<div class="proj-tag" style="background:#1976d2;">Agentic LLM</div>
 </a>
 
 <a href="https://github.com/ictnlp/BayLing" target="_blank" class="proj-card">
@@ -143,7 +143,7 @@ Some of his representative works include:
 </a>
 
 <a href="https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation" target="_blank" class="proj-card">
-<div class="proj-name">SimulTrans</div>
+<div class="proj-name">Simul-Trans</div>
 <div class="proj-stars"><img src="https://img.shields.io/github/stars/zhangshaolei1998/Awesome-Simultaneous-Translation?style=social&label=Stars" alt="stars"></div>
 <div class="proj-tag" style="background:#546e7a;">Survey</div>
 </a>
@@ -774,21 +774,21 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lgBCajwAAAAJ&citpid=2" onerror="cf(this,'Mengyu Bu')" alt="Mengyu Bu">
 <div class="c-name">Mengyu Bu</div><div class="c-aff">ICT, CAS</div></a>
 
-<div class="collab-card" style="cursor:default">
+<a href="https://nlp.ict.ac.cn/en/people/students/202306/t20230604_168738.html" target="_blank" class="collab-card">
 <img src="https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/W020230604819855035851_ORIGIN.jpg" onerror="cf(this,'Kehao Zhang')" alt="Kehao Zhang">
-<div class="c-name">Kehao Zhang</div><div class="c-aff">ICT, CAS</div></div>
+<div class="c-name">Kehao Zhang</div><div class="c-aff">ICT, CAS</div></a>
 
-<div class="collab-card" style="cursor:default">
+<a href="https://scholar.google.com/citations?user=QXkBs5AAAAAJ&hl=zh-CN" target="_blank" class="collab-card">
 <img src="https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202409/W020240909446373048942.jpg" onerror="cf(this,'Kangyu Qiao')" alt="Kangyu Qiao">
-<div class="c-name">Kangyu Qiao</div><div class="c-aff">ICT, CAS</div></div>
+<div class="c-name">Kangyu Qiao</div><div class="c-aff">ICT, CAS</div></a>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Zhe+Yang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Zhe Yang">
 <div class="c-name">Zhe Yang</div><div class="c-aff">ICT, CAS</div></div>
 
-<div class="collab-card" style="cursor:default">
+<a href="https://scholar.google.com/citations?user=Ox6GOgcAAAAJ&hl=zh-CN" target="_blank" class="collab-card">
 <img src="https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/W020230604840808044025_ORIGIN.jpg" onerror="cf(this,'Zhuocheng Zhang')" alt="Zhuocheng Zhang">
-<div class="c-name">Zhuocheng Zhang</div><div class="c-aff">ICT, CAS</div></div>
+<div class="c-name">Zhuocheng Zhang</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://shrango.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Mt9xdjYAAAAJ&citpid=2" onerror="cf(this,'Langlin Huang')" alt="Langlin Huang">
