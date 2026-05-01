@@ -616,27 +616,27 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 
 <a href="https://fangqingkai.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n2lRntoAAAAJ&citpid=2" onerror="cf(this,'Qingkai Fang')" alt="Qingkai Fang">
-<div class="c-name">Qingkai Fang</div>
+<div class="c-name">Qingkai Fang</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://scholar.google.com/citations?user=XwHtPyAAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XwHtPyAAAAAJ&citpid=2" onerror="cf(this,'Shoutao Guo')" alt="Shoutao Guo">
-<div class="c-name">Shoutao Guo</div>
+<div class="c-name">Shoutao Guo</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://scholar.google.com/citations?user=dUgq6tEAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dUgq6tEAAAAJ&citpid=2" onerror="cf(this,'Zhengrui Ma')" alt="Zhengrui Ma">
-<div class="c-name">Zhengrui Ma</div>
+<div class="c-name">Zhengrui Ma</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://zhouyan19.github.io/zhouyan/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n2TrZ-IAAAAJ&citpid=2" onerror="cf(this,'Yan Zhou')" alt="Yan Zhou">
-<div class="c-name">Yan Zhou</div>
+<div class="c-name">Yan Zhou</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://tianyu0313.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hboKz7EAAAAJ&citpid=2" onerror="cf(this,'Tian Yu')" alt="Tian Yu">
-<div class="c-name">Tian Yu</div>
+<div class="c-name">Tian Yu</div><div class="c-aff">ICT, CAS</div></a>
 
 <a href="https://bingo123122121.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lgBCajwAAAAJ&citpid=2" onerror="cf(this,'Mengyu Bu')" alt="Mengyu Bu">
-<div class="c-name">Mengyu Bu</div>
+<div class="c-name">Mengyu Bu</div><div class="c-aff">ICT, CAS</div></a>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Kehao+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Kehao Zhang">
@@ -656,19 +656,19 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Zhuocheng+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Zhuocheng Zhang">
-<div class="c-name">Zhuocheng Zhang</div>
+<div class="c-name">Zhuocheng Zhang</div><div class="c-aff">ICT, CAS</div></div>
 
 <a href="https://shrango.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Mt9xdjYAAAAJ&citpid=2" onerror="cf(this,'Langlin Huang')" alt="Langlin Huang">
-<div class="c-name">Langlin Huang</div>
+<div class="c-name">Langlin Huang</div><div class="c-aff">WashU</div></a>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Shangtong+Gui&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Shangtong Gui">
-<div class="c-name">Shangtong Gui</div>
+<div class="c-name">Shangtong Gui</div><div class="c-aff">ICT, CAS</div></div>
 
 <a href="https://scholar.google.com/citations?user=9RTm2qoAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9RTm2qoAAAAJ&citpid=2" onerror="cf(this,'Meihao Fan')" alt="Meihao Fan">
-<div class="c-name">Meihao Fan</div>
+<div class="c-name">Meihao Fan</div><div class="c-aff">RUC</div></a>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Chao+Deng&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Chao Deng">
@@ -680,159 +680,159 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 
 <a href="https://scholar.google.com/citations?user=6BsNnDQAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6BsNnDQAAAAJ&citpid=2" onerror="cf(this,'Chao Zhang')" alt="Chao Zhang">
-<div class="c-name">Chao Zhang</div>
+<div class="c-name">Chao Zhang</div><div class="c-aff">RUC</div></a>
 
 <a href="https://scholar.google.com/citations?user=UxGRVk8AAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UxGRVk8AAAAJ&citpid=2" onerror="cf(this,'Sen Hu')" alt="Sen Hu">
-<div class="c-name">Sen Hu</div>
+<div class="c-name">Sen Hu</div><div class="c-aff">PKU</div></a>
 
 <a href="https://scholar.google.com/citations?user=ye4BnicAAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ye4BnicAAAAJ&citpid=2" onerror="cf(this,'Ji Sun')" alt="Ji Sun">
-<div class="c-name">Ji Sun</div>
+<div class="c-name">Ji Sun</div><div class="c-aff">Tsinghua</div></a>
 
 <a href="https://zhongjunhe.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=a-1wSFYAAAAJ&citpid=2" onerror="cf(this,'Zhongjun He')" alt="Zhongjun He">
-<div class="c-name">Zhongjun He</div>
+<div class="c-name">Zhongjun He</div><div class="c-aff">Baidu</div></a>
 
 <a href="https://wuhuanlp.github.io/" target="_blank" class="collab-card">
 <img src="https://wuhuanlp.github.io/images/wuhua.jpg" onerror="cf(this,'Hua Wu')" alt="Hua Wu">
-<div class="c-name">Hua Wu</div>
+<div class="c-name">Hua Wu</div><div class="c-aff">Baidu</div></a>
 
 <a href="https://chenchongthu.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XIiVCyQAAAAJ&citpid=2" onerror="cf(this,'Chong Chen')" alt="Chong Chen">
-<div class="c-name">Chong Chen</div>
+<div class="c-name">Chong Chen</div><div class="c-aff">Huawei Cloud</div></a>
 
 <a href="https://scholar.google.com/citations?user=nYIj020AAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nYIj020AAAAJ&citpid=2" onerror="cf(this,'Chenglin Wu')" alt="Chenglin Wu">
-<div class="c-name">Chenglin Wu</div>
+<div class="c-name">Chenglin Wu</div><div class="c-aff">DeepWisdom</div></a>
 
 <a href="https://liliangyou.github.io/" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PPDE-uIAAAAJ&citpid=2" onerror="cf(this,'Liangyou Li')" alt="Liangyou Li">
-<div class="c-name">Liangyou Li</div>
+<div class="c-name">Liangyou Li</div><div class="c-aff">Huawei</div></a>
 
 <a href="https://scholar.google.com/citations?user=LH_rZf8AAAAJ" target="_blank" class="collab-card">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LH_rZf8AAAAJ&citpid=2" onerror="cf(this,'Chenze Shao')" alt="Chenze Shao">
-<div class="c-name">Chenze Shao</div>
+<div class="c-name">Chenze Shao</div><div class="c-aff">DeepSeek</div></a>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Qihao+Wang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Qihao Wang">
-<div class="c-name">Qihao Wang</div>
+<div class="c-name">Qihao Wang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Ziming+Cheng&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Ziming Cheng">
-<div class="c-name">Ziming Cheng</div>
+<div class="c-name">Ziming Cheng</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Shuo+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Shuo Zhang">
-<div class="c-name">Shuo Zhang</div>
+<div class="c-name">Shuo Zhang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Fan+Liu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Fan Liu">
-<div class="c-name">Fan Liu</div>
+<div class="c-name">Fan Liu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Rui+Xu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Rui Xu">
-<div class="c-name">Rui Xu</div>
+<div class="c-name">Rui Xu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Heng+Lian&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Heng Lian">
-<div class="c-name">Heng Lian</div>
+<div class="c-name">Heng Lian</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Kunyi+Wang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Kunyi Wang">
-<div class="c-name">Kunyi Wang</div>
+<div class="c-name">Kunyi Wang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Xiaoming+Yu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Xiaoming Yu">
-<div class="c-name">Xiaoming Yu</div>
+<div class="c-name">Xiaoming Yu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Jianghao+Yin&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Jianghao Yin">
-<div class="c-name">Jianghao Yin</div>
+<div class="c-name">Jianghao Yin</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Yue+Hu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yue Hu">
-<div class="c-name">Yue Hu</div>
+<div class="c-name">Yue Hu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Yanbing+Liu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yanbing Liu">
-<div class="c-name">Yanbing Liu</div>
+<div class="c-name">Yanbing Liu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Haonan+Bian&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Haonan Bian">
-<div class="c-name">Haonan Bian</div>
+<div class="c-name">Haonan Bian</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Zhiyuan+Yao&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Zhiyuan Yao">
-<div class="c-name">Zhiyuan Yao</div>
+<div class="c-name">Zhiyuan Yao</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Zishan+Xu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Zishan Xu">
-<div class="c-name">Zishan Xu</div>
+<div class="c-name">Zishan Xu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Yifu+Guo&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yifu Guo">
-<div class="c-name">Yifu Guo</div>
+<div class="c-name">Yifu Guo</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Ziliang+Yang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Ziliang Yang">
-<div class="c-name">Ziliang Yang</div>
+<div class="c-name">Ziliang Yang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Xueran+Han&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Xueran Han">
-<div class="c-name">Xueran Han</div>
+<div class="c-name">Xueran Han</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Ronghao+Chen&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Ronghao Chen">
-<div class="c-name">Ronghao Chen</div>
+<div class="c-name">Ronghao Chen</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Huacan+Wang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Huacan Wang">
-<div class="c-name">Huacan Wang</div>
+<div class="c-name">Huacan Wang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Tu+Hu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Tu Hu">
-<div class="c-name">Tu Hu</div>
+<div class="c-name">Tu Hu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Mou+Xiao+Feng&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Mou Xiao Feng">
-<div class="c-name">Mou Xiao Feng</div>
+<div class="c-name">Mou Xiao Feng</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Jingping+Liu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Jingping Liu">
-<div class="c-name">Jingping Liu</div>
+<div class="c-name">Jingping Liu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Wenqi+Jiang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Wenqi Jiang">
-<div class="c-name">Wenqi Jiang</div>
+<div class="c-name">Wenqi Jiang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Yuqi+Fang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yuqi Fang">
-<div class="c-name">Yuqi Fang</div>
+<div class="c-name">Yuqi Fang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Yi+Xu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yi Xu">
-<div class="c-name">Yi Xu</div>
+<div class="c-name">Yi Xu</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Jie+Song&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Jie Song">
-<div class="c-name">Jie Song</div>
+<div class="c-name">Jie Song</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Peng+Li&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Peng Li">
-<div class="c-name">Peng Li</div>
+<div class="c-name">Peng Li</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Fuxin+Jiang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Fuxin Jiang">
-<div class="c-name">Fuxin Jiang</div>
+<div class="c-name">Fuxin Jiang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Tieying+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Tieying Zhang">
-<div class="c-name">Tieying Zhang</div>
+<div class="c-name">Tieying Zhang</div><div class="c-aff"></div></div>
 
 <div class="collab-card" style="cursor:default">
 <img src="https://ui-avatars.com/api/?name=Jianjun+Chen&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Jianjun Chen">
-<div class="c-name">Jianjun Chen</div>
+<div class="c-name">Jianjun Chen</div><div class="c-aff"></div></div>
 
 </div>
 
