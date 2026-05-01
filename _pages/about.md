@@ -450,6 +450,11 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_NAACL_2021-b31b1b.svg?style=plastic)](https://aclanthology.org/2021.autosimtrans-1.1) [![github](https://img.shields.io/badge/Docker-skyblue.svg?style=plastic&logo=docker)](https://hub.docker.com/repository/docker/zhangshaolei1998/auto_simtrans2021_final/general) [![pre](https://img.shields.io/badge/%F0%9F%8E%9E_Presentation-darkgreen.svg?style=plastic)](https://autosimtrans.github.io/2021/assets/docs/slides2021/ict_ZhangShaolei_AutoSimTrans_Slides.pdf)<br>
 
 
+# 🚀 Projects
+- **"多模态大模型关键技术研究"** —— 中国人民大学-小米大模型联合实验室
+- **"基于课程式冷启动与分层强化学习的大模型工具使用方法"** —— CCF-蚂蚁科研基金
+- **"面向数据分析的Agentic大模型工具调用研究"** —— 腾讯
+
 # 🏆 Honors and Awards
 - [2025]  UCAS's Wang Shouwu Scholarship (中国科学院大学王守武奖学金)
 - [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所 所长特别奖(夏培肃奖)) [Highest award in ICT/CAS, **<font color=red>Top 2</font>**]
@@ -488,8 +493,5 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - "从机器翻译到同声传译：挑战与进展" on MLNLP Academic Seminar [[Slides](https://zhangshaolei1998.github.io/slides/MLNLP%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A_%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%E7%BB%BC%E8%BF%B0_%E5%BC%A0%E7%BB%8D%E7%A3%8A.pdf)] [[Video](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/BV1dr4y1W7E9)]
 - AI Time Youth Talk for ICLR 2023 [[Video](https://www.bilibili.com/video/BV1Wk4y1W7yr/?spm_id_from=333.999.0.0&vd_source=c899334e93a187eda3344c9e3cbb3c9a)]
 - Internal share talks in ByteDance, Huawei, Tencent, Li Auto
-
-# 💻 Internships
-- *2019.12 - 2021.12*, Huawei Noah's Ark Lab, industry-university-research collaboration project, China.
 
 <a href='https://clustrmaps.com/site/1bx1j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=f6ObyrbVLY65qa_IZr0teL9UER09Q1bLih8TUF5yekA'/></a>
