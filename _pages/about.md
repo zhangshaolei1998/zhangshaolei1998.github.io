@@ -130,6 +130,24 @@ Some of his representative works include:
 <div class="proj-tag" style="background:#00838f;">LLM Tool-use</div>
 </a>
 
+<a href="https://github.com/QuantaAlpha/MemGovern" target="_blank" class="proj-card">
+<div class="proj-name">MemGovern</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/QuantaAlpha/MemGovern?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#c62828;">LLM Memory</div>
+</a>
+
+<a href="https://github.com/HKUSTDial/awesome-data-agents" target="_blank" class="proj-card">
+<div class="proj-name">Awesome-Data-Agents</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/HKUSTDial/awesome-data-agents?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#546e7a;">Survey</div>
+</a>
+
+<a href="https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation" target="_blank" class="proj-card">
+<div class="proj-name">Awesome-SimulTrans</div>
+<div class="proj-stars"><img src="https://img.shields.io/github/stars/zhangshaolei1998/Awesome-Simultaneous-Translation?style=social&label=Stars" alt="stars"></div>
+<div class="proj-tag" style="background:#546e7a;">Survey</div>
+</a>
+
 </div>
 
 
