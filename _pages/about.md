@@ -103,8 +103,8 @@ Beyond his research, he won the first place in the streaming transcription track
 </style>
 
 <ul class="timeline">
-  <li><span class="date">2026.05</span><span class="content">🎉 <font color=red>2 papers</font> were accepted by <strong>ICML 2025</strong>! Congrats to all collaborators!</span></li>
-  <li><span class="date">2026.04</span><span class="content">🎉 <font color=red>3 papers</font> were accepted by <strong>ACL 2025</strong>! Congrats to all collaborators!</span></li>
+  <li><span class="date">2026.05</span><span class="content">🎉 <font color=red>2 papers</font> were accepted by <strong>ICML 2026</strong>! Congrats to all collaborators!</span></li>
+  <li><span class="date">2026.04</span><span class="content">🎉 <font color=red>3 papers</font> were accepted by <strong>ACL 2026</strong>! Congrats to all collaborators!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 We release <a href="https://github.com/ruc-datalab/DeepAnalyze"><font color=red><strong>DeepAnalyze</strong></font></a>, the first agentic LLM for autonomous data science, supporting specific data tasks and data-oriented deep research!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I join Renmin University of China as an Assistant Professor, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=red>2 paper</font> was accepted by <strong>EMNLP 2025</strong>! Congrats to all collaborators!</span></li>
