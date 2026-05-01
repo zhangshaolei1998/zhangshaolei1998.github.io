@@ -19,6 +19,7 @@ redirect_from:
 
 **<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an **Assistant Professor** at the [School of Information](http://info.ruc.edu.cn/){:style="text-decoration:none;"}, [Renmin University of China](https://www.ruc.edu.cn/){:style="text-decoration:none;"} (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/){:style="text-decoration:none;"}. He received his Ph.D. degree from [Institute of Computing Technology](https://www.cas.cn/){:style="text-decoration:none;"}, [Chinese Academy of Sciences](https://www.cas.cn/){:style="text-decoration:none;"} (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en){:style="text-decoration:none;"}. He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/){:style="text-decoration:none;"} in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班).
 
+ **<font color=red>课题组长期招收保研同学（硕士生/博士生）、本科实习生，欢迎邮件联系！</font>**
 
 # 🔎 Research
 
@@ -102,6 +103,8 @@ Beyond his research, he won the first place in the streaming transcription track
 </style>
 
 <ul class="timeline">
+  <li><span class="date">2026.05</span><span class="content">🎉 <font color=red>2 papers</font> were accepted by <strong>ICML 2025</strong>! Congrats to all collaborators!</span></li>
+  <li><span class="date">2026.04</span><span class="content">🎉 <font color=red>3 papers</font> were accepted by <strong>ACL 2025</strong>! Congrats to all collaborators!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 We release <a href="https://github.com/ruc-datalab/DeepAnalyze"><font color=red><strong>DeepAnalyze</strong></font></a>, the first agentic LLM for autonomous data science, supporting specific data tasks and data-oriented deep research!</span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=blue><strong>I join Renmin University of China as an Assistant Professor, focusing on research in LLMs, data-centric AI, and agentic AI!</strong></font></span></li>
   <li><span class="date">2025.08</span><span class="content">🎉 <font color=red>2 paper</font> was accepted by <strong>EMNLP 2025</strong>! Congrats to all collaborators!</span></li>
@@ -154,7 +157,7 @@ Beyond his research, he won the first place in the streaming transcription track
 [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872) \\
 **Shaolei Zhang**, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![homepage](https://img.shields.io/badge/%F0%9F%8C%90%20Homepage%20-DeepAnalyze%20Cases-blue.svg)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fruc-datalab%2FDeepAnalyze&label=Visitors&icon=graph-up&color=%23dc3545&message=&style=flat&tz=UTC) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze) 
+[![arXiv](https://img.shields.io/badge/Paper-ICML2026-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![homepage](https://img.shields.io/badge/%F0%9F%8C%90%20Homepage%20-DeepAnalyze%20Cases-blue.svg)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fruc-datalab%2FDeepAnalyze&label=Visitors&icon=graph-up&color=%23dc3545&message=&style=flat&tz=UTC) [![star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze) 
 
 
 [![zhihu](https://img.shields.io/badge/WeChat-@中国人民大学信息学院-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/Q7qt-iZ0GjBZ1RTF_MPurA)  [![zhihu](https://img.shields.io/badge/WeChat-@机器之心-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/3PObdzM7d8gaQcoVpZbLHg) 
@@ -304,10 +307,29 @@ Beyond his research, he won the first place in the streaming transcription track
 </div>
 </div>
 
-## 2025
+## 2026
 
-- [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872). &nbsp; Preprint 2025.<br>
+- [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872). &nbsp; ICML 2026.<br>
 **Shaolei Zhang**, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du &nbsp; <br>[![arXiv](https://img.shields.io/badge/arXiv-2510.16872-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.16872) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ruc-datalab/DeepAnalyze) [![homepage](https://img.shields.io/badge/Project-darkblue.svg?style=plastic&logo=google-home)](https://ruc-deepanalyze.github.io/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-DeepAnalyze--8B-orange.svg)](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-DataScience--Instruct--500K-darkgreen.svg)](https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K)
+
+- CoDA-Bench: Can Code Agents Handle Data-Intensive Tasks?. &nbsp; ICML 2026.<br>
+Yuxin Zhang, Ju Fan, Meihao Fan, **Shaolei Zhang†**, Xiaoyong Du &nbsp; <br>*To be open-sourced soon*<br>
+
+- DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving. &nbsp; ACL 2026 (<font color=red>CCF-A</font>).<br>
+Chao Deng★, **Shaolei Zhang★**, Ju Fan, Xiaoyong Du  &nbsp; <br>*To be open-sourced soon*<br>
+
+- [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://arxiv.org/pdf/2601.06789). &nbsp; ACL 2026 findings (<font color=red>CCF-A</font>).<br>
+Qihao Wang, Ziming Cheng, Shuo Zhang, Fan Liu, Rui Xu, Heng Lian, Kunyi Wang, Xiaomin Yu, Jianghao Yin, Sen Hu, Yue Hu, **Shaolei Zhang†**, Yanbing Liu†, Ronghao Chen†, Huacan Wang† &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.06789) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/QuantaAlpha/MemGovern) [![data](https://img.shields.io/badge/%F0%9F%93%9A%20Datasets%20-
+Memgovern-darkgreen.svg)](https://huggingface.co/datasets/jimson991/Memgovern)<br>
+
+- [RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction](https://arxiv.org/pdf/2601.06966). &nbsp; ACL 2026 findings (<font color=red>CCF-A</font>).<br>
+Haonan Bian, Zhiyuan Yao, Sen Hu, Zishan Xu, **Shaolei Zhang**, Yifu Guo, Ziliang Yang, Xueran Han, Huacan Wang, Ronghao Chen &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_ACL_2026-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.06966) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/AvatarMemory/RealMemBench)<br>
+
+- [MiMo-V2-Flash Technical Report](https://arxiv.org/abs/2601.02780). &nbsp; Preprint 2026 (<font color=red>CCF-A</font>).<br>
+Xiaomi LLM-Core Team &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2026-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2601.02780) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/xiaomimimo/MiMo-V2-Flash)<br>
+
+
+## 2025
 
 - [Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model](https://arxiv.org/abs/2506.13642). &nbsp; Preprint 2025.<br>
 **Shaolei Zhang**, Shoutao Guo, Qingkai Fang, Yan Zhou, Yang Feng  &nbsp; <br>[![paper](https://img.shields.io/badge/%F0%9F%93%84_Preprint_2025-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2506.13642) [![github](https://img.shields.io/badge/GitHub-grey.svg?style=plastic&logo=github)](https://github.com/ictnlp/Stream-Omni) [![model](https://img.shields.io/badge/%F0%9F%A4%97_Models-orange.svg?style=plastic)](https://huggingface.co/ICTNLP/stream-omni-8b)<br>
