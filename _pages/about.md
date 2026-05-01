@@ -19,7 +19,7 @@ redirect_from:
 
 **<font color=black>Shaolei Zhang</font>** (**<font color=black>张绍磊</font>**) is an **Assistant Professor** at the [School of Information](http://info.ruc.edu.cn/){:style="text-decoration:none;"}, [Renmin University of China](https://www.ruc.edu.cn/){:style="text-decoration:none;"} (中国人民大学信息学院), collaborating closely with Professor [Ju Fan (范举)](http://iir.ruc.edu.cn/~fanj/){:style="text-decoration:none;"} and Professor [Xiaoyong Du (杜小勇)](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm){:style="text-decoration:none;"}. He received his Ph.D. degree from [Institute of Computing Technology](https://www.cas.cn/){:style="text-decoration:none;"}, [Chinese Academy of Sciences](https://www.cas.cn/){:style="text-decoration:none;"} (中国科学院计算技术研究所) in 2025, advised by Professor [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en){:style="text-decoration:none;"}. He received his bachelor's degree from [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/){:style="text-decoration:none;"} in 2020, majoring in computer science and technology (北京邮电大学计算机科学与技术实验班).
 
- **<font color=red>课题组长期招收保研同学（硕士生/博士生）、本科实习生，欢迎邮件联系！</font>**
+ **<font color=red><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> 课题组长期招收保研同学（硕士生/博士生）、本科实习生，欢迎邮件联系！</font>**
 
 # 🔎 Research
 
@@ -29,7 +29,7 @@ He is dedicated to **<font color=red>developing next-generation intelligent syst
 <img src="images/research.jpg" alt="overview" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-He has published over **30 papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, ICML. His open-source projects have received over **10,000 stars** on GitHub, and LLMs have been downloaded more than **100,000 times** on HuggingFace. He won the first place in AutoSimTrans 2021. He is serving as Area Chair of ACL ARR (*CCF-A Conference*) and Reviewer of Top AI/NLP conferences.
+He has published over **<font color=blue>30 papers</font>** at the top international AI conferences such as ACL, NeurIPS, ICLR, ICML. His open-source projects have received over **<font color=blue>10,000 GitHub stars</font>**, and open-source LLMs have been downloaded more than **<font color=blue>100,000 times</font>** on HuggingFace. He won the first place in AutoSimTrans 2021. He is serving as **<font color=blue>Area Chair</font>** of ACL ARR (*CCF-A Conference*) and Reviewer of Top AI conferences.
 
 Some of his representative works include:
 
@@ -46,7 +46,7 @@ Some of his representative works include:
   border: 1px solid #e8e8e8;
   border-radius: 10px;
   padding: 14px 16px;
-  width: 180px;
+  width: 150px;
   text-align: center;
   text-decoration: none !important;
   color: inherit !important;
@@ -137,13 +137,13 @@ Some of his representative works include:
 </a>
 
 <a href="https://github.com/HKUSTDial/awesome-data-agents" target="_blank" class="proj-card">
-<div class="proj-name">Awesome-Data-Agents</div>
+<div class="proj-name">Data-Agents</div>
 <div class="proj-stars"><img src="https://img.shields.io/github/stars/HKUSTDial/awesome-data-agents?style=social&label=Stars" alt="stars"></div>
 <div class="proj-tag" style="background:#546e7a;">Survey</div>
 </a>
 
 <a href="https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation" target="_blank" class="proj-card">
-<div class="proj-name">Awesome-SimulTrans</div>
+<div class="proj-name">SimulTrans</div>
 <div class="proj-stars"><img src="https://img.shields.io/github/stars/zhangshaolei1998/Awesome-Simultaneous-Translation?style=social&label=Stars" alt="stars"></div>
 <div class="proj-tag" style="background:#546e7a;">Survey</div>
 </a>
@@ -348,7 +348,7 @@ Some of his representative works include:
 
 [![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2501.03895) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-llava--mini--llama--3.1--8b-blue.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b) [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FLLaVA-Mini&label=Vistors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/LLaVA-Mini) [![](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social&label=Code+Stars)](https://github.com/ictnlp/LLaVA-Mini) [![zhihu](https://img.shields.io/badge/WeChat-@机器之心-black?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/tlFW5FSVWeFri6JfeRxxWw) 
 
-- LLaVA-Mini is a <font color=red>unified large multimodal model</font> that can support the understanding of images, high-resolution images, and videos in <font color=red>an efficient manner</font>.
+- LLaVA-Mini is a <font color=red>unified large multimodal model</font> that supports the understanding of images, high-resolution images, videos in <font color=red>an efficient manner</font>.
 - LLaVA-Mini only requires 1 token to represent each image, which improves the efficiency of image and video understanding, including:
   - **Computational effort**: <font color=blue>77% FLOPs</font> reduction;
   - **Response latency**: reduce from 100 milliseconds to <font color=blue>40 milliseconds</font>;
