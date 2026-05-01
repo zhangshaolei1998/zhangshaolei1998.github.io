@@ -494,4 +494,171 @@ Shoutao Guo, **Shaolei Zhang**, Yang Feng  &nbsp; <br>[![paper](https://img.shie
 - AI Time Youth Talk for ICLR 2023 [[Video](https://www.bilibili.com/video/BV1Wk4y1W7yr/?spm_id_from=333.999.0.0&vd_source=c899334e93a187eda3344c9e3cbb3c9a)]
 - Internal share talks in ByteDance, Huawei, Tencent, Li Auto
 
+# 🤝 Collaborators
+
+<style>
+.collab-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  padding: 10px 0 20px 0;
+}
+.collab-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 96px;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+.collab-card img {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #f0f0f0;
+  transition: all 0.3s ease;
+  background: #f5f5f5;
+}
+a.collab-card:hover img {
+  transform: scale(1.1);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+  border-color: #667eea;
+}
+.collab-card .c-name {
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.3;
+  color: #333;
+}
+.collab-card .c-aff {
+  font-size: 10px;
+  color: #999;
+  text-align: center;
+  margin-top: 2px;
+}
+.collab-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #555;
+  margin: 15px 0 8px 0;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #eee;
+}
+</style>
+
+<script>
+function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encodeURIComponent(n)+'&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true';}
+</script>
+
+<div class="collab-label">Faculty</div>
+<div class="collab-grid">
+
+<a href="https://people.ucas.edu.cn/~yangfeng?language=en" target="_blank" class="collab-card">
+<img src="https://ui-avatars.com/api/?name=Yang+Feng&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yang Feng">
+<div class="c-name">Yang Feng</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="http://vipl.ict.ac.cn/people/xlchen/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vVx2v20AAAAJ&citpid=2" onerror="cf(this,'Xilin Chen')" alt="Xilin Chen">
+<div class="c-name">Xilin Chen</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="http://novel.ict.ac.cn/ychen/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AsJe9xAAAAAJ&citpid=2" onerror="cf(this,'Yunji Chen')" alt="Yunji Chen">
+<div class="c-name">Yunji Chen</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="http://iir.ruc.edu.cn/~fanj/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nl8dmycAAAAJ&citpid=2" onerror="cf(this,'Ju Fan')" alt="Ju Fan">
+<div class="c-name">Ju Fan</div><div class="c-aff">RUC</div></a>
+
+<a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm" target="_blank" class="collab-card">
+<img src="https://ui-avatars.com/api/?name=Xiaoyong+Du&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Xiaoyong Du">
+<div class="c-name">Xiaoyong Du</div><div class="c-aff">RUC</div></a>
+
+<a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Pi89P8kAAAAJ&citpid=2" onerror="cf(this,'Guoliang Li')" alt="Guoliang Li">
+<div class="c-name">Guoliang Li</div><div class="c-aff">Tsinghua</div></a>
+
+<a href="https://faculty.hitsz.edu.cn/MinZhang" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CncXH-YAAAAJ&citpid=2" onerror="cf(this,'Min Zhang')" alt="Min Zhang">
+<div class="c-name">Min Zhang</div><div class="c-aff">HIT(SZ)</div></a>
+
+<a href="https://zhongjunhe.github.io/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=a-1wSFYAAAAJ&citpid=2" onerror="cf(this,'Zhongjun He')" alt="Zhongjun He">
+<div class="c-name">Zhongjun He</div><div class="c-aff">Baidu</div></a>
+
+<a href="https://wuhuanlp.github.io/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9X2ThuAAAAAJ&citpid=2" onerror="cf(this,'Hua Wu')" alt="Hua Wu">
+<div class="c-name">Hua Wu</div><div class="c-aff">Baidu</div></a>
+
+</div>
+
+<div class="collab-label">Students & Postdocs</div>
+<div class="collab-grid">
+
+<a href="https://fangqingkai.github.io/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n2lRntoAAAAJ&citpid=2" onerror="cf(this,'Qingkai Fang')" alt="Qingkai Fang">
+<div class="c-name">Qingkai Fang</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="https://scholar.google.com/citations?user=XwHtPyAAAAAJ" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XwHtPyAAAAAJ&citpid=2" onerror="cf(this,'Shoutao Guo')" alt="Shoutao Guo">
+<div class="c-name">Shoutao Guo</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="https://scholar.google.com/citations?user=dUgq6tEAAAAJ" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dUgq6tEAAAAJ&citpid=2" onerror="cf(this,'Zhengrui Ma')" alt="Zhengrui Ma">
+<div class="c-name">Zhengrui Ma</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="https://zhouyan19.github.io/zhouyan/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n2TrZ-IAAAAJ&citpid=2" onerror="cf(this,'Yan Zhou')" alt="Yan Zhou">
+<div class="c-name">Yan Zhou</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="https://tianyu0313.github.io/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hboKz7EAAAAJ&citpid=2" onerror="cf(this,'Tian Yu')" alt="Tian Yu">
+<div class="c-name">Tian Yu</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="https://bingo123122121.github.io/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lgBCajwAAAAJ&citpid=2" onerror="cf(this,'Mengyu Bu')" alt="Mengyu Bu">
+<div class="c-name">Mengyu Bu</div><div class="c-aff">ICT, CAS</div></a>
+
+<a href="https://scholar.google.com/citations?user=9RTm2qoAAAAJ" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9RTm2qoAAAAJ&citpid=2" onerror="cf(this,'Meihao Fan')" alt="Meihao Fan">
+<div class="c-name">Meihao Fan</div><div class="c-aff">RUC</div></a>
+
+<a href="https://scholar.google.com/citations?user=LH_rZf8AAAAJ" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LH_rZf8AAAAJ&citpid=2" onerror="cf(this,'Chenze Shao')" alt="Chenze Shao">
+<div class="c-name">Chenze Shao</div><div class="c-aff">DeepSeek</div></a>
+
+<a href="https://liliangyou.github.io/" target="_blank" class="collab-card">
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PPDE-uIAAAAJ&citpid=2" onerror="cf(this,'Liangyou Li')" alt="Liangyou Li">
+<div class="c-name">Liangyou Li</div><div class="c-aff">Huawei</div></a>
+
+<!-- TODO: add homepage links for the following when available -->
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Kehao+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Kehao Zhang">
+<div class="c-name">Kehao Zhang</div><div class="c-aff">ICT, CAS</div></div>
+
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Kangyu+Qiao&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Kangyu Qiao">
+<div class="c-name">Kangyu Qiao</div><div class="c-aff">ICT, CAS</div></div>
+
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Zhe+Yang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Zhe Yang">
+<div class="c-name">Zhe Yang</div><div class="c-aff">ICT, CAS</div></div>
+
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Chao+Deng&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Chao Deng">
+<div class="c-name">Chao Deng</div><div class="c-aff">RUC</div></div>
+
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Yuxin+Zhang&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Yuxin Zhang">
+<div class="c-name">Yuxin Zhang</div><div class="c-aff">RUC</div></div>
+
+<div class="collab-card" style="cursor:default">
+<img src="https://ui-avatars.com/api/?name=Xiaodong+Liu&size=160&background=dfe6e9&color=636e72&font-size=0.35&bold=true" alt="Xiaodong Liu">
+<div class="c-name">Xiaodong Liu</div><div class="c-aff">ICT, CAS</div></div>
+
+</div>
+
 <a href='https://clustrmaps.com/site/1bx1j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=f6ObyrbVLY65qa_IZr0teL9UER09Q1bLih8TUF5yekA'/></a>
