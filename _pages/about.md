@@ -958,4 +958,4 @@ function cf(e,n){e.onerror=null;e.src='https://ui-avatars.com/api/?name='+encode
 
 </div>
 
-<a href='https://clustrmaps.com/site/1bx1j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=f6ObyrbVLY65qa_IZr0teL9UER09Q1bLih8TUF5yekA'/></a>
+<a href="https://mapmyvisitors.com/web/1c8bb"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=GMjoISGcfX5TACaQPdfttKaI6z08nqnDLDqKn5fvSlM&cl=ffffff" /></a>
